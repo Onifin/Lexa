@@ -1,0 +1,2166 @@
+MANUAL DO
+
+ADVOGADO
+E PROCURADOR
+
+12º e 22º GRAUS
+
+MÓDULO 2 - Menu “Consulta”
+
+TRF5
+
+Tribunal Regional Federal
+da 5ª Região
+Sumário
+
+1 PROCESSOS NÃO PROTOCOLADOS................................................................................................................................... 3
+1.1 Consultar processos NÃO protocolados..................................................................................................................................... 3
+1.2 Remover processos não protocolados.......................................................................................................................................... 4
+1.3 Protocolar processos CM Lote................................................................................................................................................... 4
+
+2 DOCUMENTOS NÃO ASSINADOS........................................................................................................................................... 8
+2.1 Visualização de DOCUMENTOS.............................................................................................................................................. 8
+2.2 Assinatura individual de petição/DOCUMENTO......................................................................................................................... 9
+2.3 Editar Petição.............................................................................................................................................................................. 10
+2.4 Assinatura CM Lote.................................................................................................................................................................... 11
+
+3 PROCESSOS NÃO DISTRIBUÍDOS......................................................................................................................................... 13
+
+4 CONSULTAR PROCESSOS....................................................................................................................................................... 13
+4.1 Aba “Processo”.......................................................................................................................................................................... 15
+4.2 Aba “Anexar Petições/DOCUMENTOS”................................................................................................................................... 26
+4.3 Aba “Expedientes”..................................................................................................................................................................... 60
+4.4 Aba “Audiência”.......................................................................................................................................................................... 64
+4.5 Aba “Perícia”.............................................................................................................................................................................. 65
+4.6 Aba “Anexos Físicos”................................................................................................................................................................ 65
+4.7 Aba “Distribuição”..................................................................................................................................................................... 66
+Por meio dessa aba, serão visualizadas informações acerca da distribuição e redistribuições do processo.......................................... 66
+4.8 Aba “Associados”...................................................................................................................................................................... 66
+4.9 Aba “Retificações”.................................................................................................................................................................... 66
+4.10 Aba “RPV/PRC”......................................................................................................................................................................... 67
+Por meio da aba “RPV/PRC”, é possível visualizar todas as RPVs cadastradas no processo............................................................... 67
+4.11 Aba “Dados da CDA”................................................................................................................................................................ 67
+
+Por meio da aba “Dados da CDA”, serão visualizadas informações acerca das Certidões de
+Dívida Ativa — CDA...................................................................................................................................................................... 67
+
+4.12 Aba “Acesso de Terceiros”......................................................................................................................................................... 68
+5 Consultar Processos................................................................................................................................................................. 68
+
+6 Consulta Pública........................................................................................................................................................................ 70
+JUSTIÇA FEDERAL TRF5
+
+1 Processos não protocolados
+
+Os processos cadastrados e não protocolados ficam disponíveis para apreciação/verificação posterior em uma página específica. Por meio dela, será possível alterar e/ou excluir as informações inseridas durante o cadastro dos processos.
+
+Para acessar essa funcionalidade, selecione, no menu, o caminho Consulta » Processos Não Protocolados.
+
+Processo Judicial Eletrônico
+
+Justiça Federal da 5ª Região
+
+Maia
+Maia (000.000.000-00)/Advogado!
+
+Home Audiência Cadastros Auxiliares Cadastros Básicos Corregedoria Inspeção Consulta Cadastro
+
+Processos Não Protocolados
+
+1.1 Consultar processos não protocolados
+
+Para consultar processos não protocolados, preencha quaisquer dos filtros existentes e . Para apagar os filtros e fazer uma nova consulta, clique em
+
+REL: COMORES - MAG DAS COMORES
+Cheque Oficial de Pompa DA
+REL: CAIXA ECONOMICA FEDERAL - CEF
+REL: CAIXA ECONOMICA FEDERAL - CEF
+AGRAVO DE AUTOR: CAIXA ECONÔMICA FEDERAL
+REV: CAIXA ECONÔMICA FEDERAL - CEF
+AGRAVO DE AUTOR: CAIXA ECONÔMICA FEDERAL
+REL: CAIXA ECONÔMICA FEDERAL - CEF
+REV: CAIXA ECONÔMICA FEDERAL - CEF
+ALIMENTOS - REL CAD DE CONSTRUÇÃO DE CASAS PARA O
+Selecionar PESSOA DO MINISTERIO CO MARANHAO
+
+MANUAL DO ADVOGADO E PROCURADOR — MODULO 2
+JUSTIÇA FEDERAL
+
+O resultado da pesquisa será disponibilizado na tabela Processos.
+Para visualizar os detalhes de um processo não protocolado, clique no ícone "Ver Detalhes". O sistema disponibilizará as abas que compõem a petição inicial, permitindo a alteração dos dados.
+
+TRF - Região Cautelar Inominada
+
+Para continuar o cadastro do processo, prossiga com o preenchimento das abas, conforme as orientações contidas no módulo 1 do Manual do Advogado/Procurador - Cadastro de Processo.
+
+1.2 Remover processos não protocolados
+
+Para remover um processo não protocolado, clique em "Remover Registro". O sistema exibirá a mensagem de confirmação:
+
+Deseja realmente excluir o processo?
+
+Para confirmar a exclusão, clique em OK.
+Para cancelar a exclusão, clique em Cancelar.
+
+1.3 Protocolar processos em lote
+
+O sistema permite que os processos sejam protocolados individualmente ou em lote.
+Para tanto, selecione o(s) processo(s) que será(ão) protocolado(s), marcando o(s) check box(es) correspondentes.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Pesquisar
+Assuntos: [campo de busca]
+Petição inicial
+
+Proc.: Polo Passivo: Processo Originário:
+[informações ilegíveis]
+
+Réu: COMORES - [informação ilegível]
+[informação ilegível]
+Agravo de Valor: [informação ilegível]
+Rel.: CAIXA ECONÔMICA FEDERAL - CEF
+
+Nome da Parte:
+[informações ilegíveis]
+
+Rel.: CAIXA ECONÔMICA FEDERAL - CEF
+[informações ilegíveis]
+
+Rel.: CAIXA ECONÔMICA FEDERAL - CEF
+[informações ilegíveis]
+
+Rel.: CAIXA ECONÔMICA FEDERAL - CEF
+[informações ilegíveis]
+
+Rel.: CAIXA DE CONSTRUÇÃO DE CASAS PARA [informação ilegível] PESSOA, DO MINISTÉRIO [informação ilegível]
+
+Processo de [ilegível]
+Protocolar em Lote
+
+Consulta Nova Consulta
+
+Selecionado(s) o(s) processo(s), para protocolá-los, clique no botão "Protocolar em Lote" que será habilitado pelo sistema.
+
+Caso queira selecionar todos os processos não protocolados, acione a seta da coluna “Marcar/Desmarcar”, na tabela Processos. Em seguida, selecione a opção “Marcar todos” e clique no botão "Protocolar em Lote".
+
+Desmarcar
+Marcar todos da página
+Desmarcar todos
+Desmarcar todos da página
+
+Botão acionado, será iniciada a verificação das regras de protocolo:
+
+1 — Existência de, no mínimo, um assunto vinculado;
+
+2 — Cadastro das partes processuais correspondentes, atentando-se para as características da classe judicial utilizada na autuação;
+
+3 — Uma petição devidamente vinculada e assinada.
+
+Atendidas as regras, os processos serão distribuídos de acordo com a jurisdição selecionada e a relação dos processos protocolados será disponibilizada, conforme imagem abaixo:
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL – TRF 5ª REGIÃO
+
+Processos Protocolados
+
+Processo Órgão Julgador
+0800247-23.2014.4.05.8100 10ª VARA FEDERAL
+
+Caso seja selecionado mais de um processo e, dentre os selecionados, exista pelo menos um processo que apresente alguma inconsistência quanto às regras para protocolo, após o acionamento do botão “Protocolar em Lote”, o sistema exibirá a seguinte mensagem:
+
+Existem inconsistências, deseja prosseguir?
+
+Cancelar | OK
+
+Clique em “OK” para protocolar os processos que não apresentarem inconsistências. Os processos que apresentarem inconsistências não serão protocolados. Clique em “Cancelar” para anular a ação.
+
+Caso seja selecionado apenas um processo e o sistema verifique, após o acionamento do botão “Protocolar em Lote”, a existência de alguma inconsistência quanto às regras para protocolo, exibirá a seguinte mensagem:
+
+Existem inconsistências
+
+Clique em “OK” para fechar a mensagem.
+Os processos que apresentarem inconsistências não poderão ser protocolados.
+Informações sobre as inconsistências encontradas serão apresentadas na coluna “Situação”, conforme mostra a imagem abaixo.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR – MÓDULO 2
+JUSTIÇA FEDERAL TRF5
+
+Consulta Processo Não Protocolado
+
+Presença vs. Case Judit. Polo Ativo: Polo Passivo: Processo Originário: Situação:
+Classe judicial: AGRAVO DE INSTRUMENTO
+Área: ECONÔMICO-FINANCEIRA
+Órgão Julgador: FEDERAL - CEF
+
+Nome da Parte: AUTOR: CAIXA
+AGRAVO DE INSTRUMENTO: ECONÔMICO-FINANCEIRA: CAIXA
+FEDERAL - CEF
+
+O Processo é inicial
+Classe: ATENTADO À ECONOMIA
+FEDERAL - CEF
+REU: CANA DE ALIMENTOS - Cathet PARA C
+PROCESSO: SIGILO PESSOAL DO
+WESTER DA
+BLAINE.
+
+Data da ocorrência: Setembro
+
+Para sanar as inconsistências, clique no ícone [Ver Detalhes].
+
+O sistema abrirá o peticionamento e permitirá que sejam sanadas as inconsistências.
+
+Cadastro de Processo
+
+Finalizado o peticionamento, seguindo os requisitos mínimos exigidos, o processo poderá ser protocolizado individualmente ou em lote.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF5
+Documentos não assinados
+
+Os documentos que forem apenas gravados, mas não assinados, ficarão disponíveis para apreciação/verificação posterior em uma página específica. A assinatura é condição para a inclusão do documento no processo.
+
+Para consultar documentos não assinados, selecione, no menu, o caminho Consulta » Documentos Não Assinados.
+
+Processo Judicial Eletrônico Pesquisar
+Justiça Federal da 5ª Região
+
+Maia (000.000.000-00)/Advogado
+
+Consulta Cadastro
+
+Documentos Não Assinados
+
+O sistema disponibilizará a página Documentos não Assinados.
+
+Documentos não Assinados
+
+Documentos Pendentes de Assinatura
+
+Identificador Documento Tipo de Documento Processo Validação
+
+4058300.1729690 Petição de Manifestação Petição 0801726-09.2012.4.05.8300 Validado
+
+Petição Inicial PAB Validado
+
+Foram encontrados: 2 resultados
+
+2.1 Visualização de documentos
+
+Para visualizar um documento, clique no ícone Visualizar. O sistema o exibirá na tela abaixo.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+SF FEDERAL = TRF5
+
+Documentos
+Associar expediente a petição (Nenhum expediente associado)
+Cadastro de Documento
+Descrição* Tipo de documento *
+Petição inicial Petição Inicial
+
+Documento sigiloso*
+Sim @ Não
+Editor*
+HB Tipo de fonte - Tamanho - @ri DBR Bw*L
+= f=|| HE) ~ « A-M- es
+—2igx 291] 4 Gadi 3
+
+teste
+
+* Campos Obrigatórios
+Incluir anexos
+
+a
+Arquivo @
+# Adicionar X = Limpar
+
+1 | Petição inicial AGTR.pdf
+
+N° Identificador
+=] 731,3 KiB i
+
+Descrição~
+
+Tipo de documento Documento sigiloso?
+Petição inicial do AGTR - em pdf
+
+Documento de Comprovação
+
+mW
+
+¥ Sim © Não
+
+Gravar Remover Assinar Digitalmente
+
+2.2 Assinatura individual de petição/documento
+
+Para assinar documentos individualmente, clique no ícone [) Assinar Documento.
+
+Ícone acionado, o sistema habilitará uma nova página, composta pelo agrupador “Documento” e
+pela tabela “Assinatura Digital”.
+
+Informações:
+Documento »
+Assinatura Digital
+Usuário Data da Assinatura Validação
+Foram encontrados: 0 resultados
+Assinar Digitalmente
+
+Ao acionar o agrupador “Documento”, serão exibidos os seguintes dados: o número do
+processo (se ele já tiver sido distribuído), o nome do usuário que anexou o documento e a data em
+que foi anexado.
+
+Pjé MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF5
+
+Informações:
+
+Documento
+
+Processo
+0801726-09.2012.4.05.8300
+
+Anexado por
+João Antônio
+
+Anexado em
+25/02/2016 16:24
+
+Assinatura Digital
+
+Usuário Data da Assinatura Validação
+Foram encontrados: 0 resultados
+
+Assinar Digitalmente
+
+Para assinar o documento, clique em "Assinar Digitalmente".
+
+O sistema solicitará a senha “PIN”. Informe-a para assinar.
+
+Introduzir PIN
+
+Para efetuar login em ‘e-CPF Certisign’
+
+Introduzir PIN: |
+
+* O comprimento mínimo do PIN é 4 bytes
+* O comprimento máximo do PIN é 8 bytes
+
+Ok Cancelar
+
+Após a assinatura do documento, serão disponibilizadas, na tabela Assinatura Digital, informações sobre a assinatura, tais como o nome do usuário que a realizou, a data em que foi realizada e se foi validada, conforme mostra a imagem abaixo:
+
+Informações:
+Documento
+Assinatura Digital
+Usuário Data da Assinatura Validação
+João Antônio - Advogado 25/02/2016 NÃO VALIDADO
+
+Foram encontrados: 1 resultado
+
+2.3 Editar petição
+
+Para realizar alterações no teor do documento, clique no ícone "Editar".
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA;
+SP FEDERAL TRF's
+
+Ao acionar o ícone, o sistema abrirá, em uma nova página, a aba “Documentos”, possibilitando a edição do documento.
+
+Documentos
+
+Associar expediente a petição (Nenhum expediente associado)
+
+Cadastro de Documento
+
+Descrição* Tipo de documento *
+Petição Inicial Petição Inicial
+Documento sigiloso*
+Sim Não
+Editor*
+[Editor de texto formatado]
+
+teste
+
+* - Campos Obrigatórios
+
+Incluir anexos
+
+Arquivo
+Adicionar Limpar
+
+Documento sigiloso?
+
+Petição inicial AGTR.pdf Nº Identificador Descrição* Tipo de documento*
+751.3 KiB - Petição inicial do AGTR - em pdf Documento de Comprovação
+
+Sim Não
+
+Gravar Remover Assinar Digitalmente
+
+Realize as alterações desejadas. Em seguida, o sistema permitirá 02 (duas) ações:
+
+1ª - Gravar: para apenas gravar as alterações, clique no botão Gravar.
+
+2ª - Assinar digitalmente: por meio do botão Assinar Digitalmente, o sistema permitirá a assinatura individual do documento, efetuando, simultaneamente, a gravação dos dados editados no texto.
+
+Obs. 1: Após a assinatura, o documento não será mais exibido na página “Documentos não Assinados”.
+
+Obs. 2: A assinatura de uma petição é o fator que gera sua inclusão no processo, exceto as petições iniciais, cuja inclusão está condicionada ao protocolo do processo.
+
+2.4 Assinatura em lote
+
+O sistema permitirá a assinatura de vários documentos por meio de um único comando, disponibilizado na página Documentos não Assinados. Para tanto, indique, na coluna “Marcar/Desmarcar”, os documentos que devem ser assinados em lote, marcando o checkbox.
+
+MANUAL DO ADVOGADO E PROCURADOR – MÓDULO 2
+JUSTIÇA FEDERAL - TRF's
+
+correspondente, conforme indicado na imagem abaixo:
+
+Documentos Pendentes de Assinatura
+
+| Identificador | Tipo de Documento | Processo | Anexos | Validação
+|---|---|---|---|---|
+| Petição inicial do AGTR - em pdf - anexo | Petição Inicial | A... | Sim | Validado
+| Inicial do Agtr | Petição Inicial | B... | Sim | Validado
+
+Foram encontrados: 2 resultados
+
+Assinar Digitalmente
+
+Obs.: para marcar todos os documentos não assinados existentes nessa página, clique na seta da coluna “Marcar/Desmarcar”. Em seguida, selecione a opção “Marcar todos”.
+
+Marcar / Desmarcar
+---
+Marcar todos da página
+Desmarcar todos
+Desmarcar todos da página
+
+Em seguida, para assinar os documentos selecionados, clique no botão:
+
+Assinar Digitalmente
+
+O sistema solicitará a senha “PIN”. Informe-a e clique em “Ok”.
+
+Introduzir PIN
+Para efetuar logon em 'e-CPF Certisign'
+
+Introduzir PIN:
+
+O comprimento mínimo do PIN é 4 bytes
+O comprimento máximo do PIN é 6 bytes
+
+Ok Cancelar
+
+Após a verificação da assinatura feita pelo sistema, será apresentada a seguinte mensagem confirmando a assinatura dos documentos:
+
+Informações
+
+Documento(s) assinado(s) com sucesso.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF5
+
+Após a assinatura, os documentos sairão da condição de pendentes de assinatura, sendo removidos da página "Documentos Não Assinados" e passarão a ser apresentados na página "Processos Não Protocolados", conforme o item I deste manual.
+
+3 Processos não distribuídos
+
+É possível consultar, apenas na base do 2° Grau (TRF5), por meio de uma página específica, os processos protocolados, embora pendentes de distribuição. Para realizar essa consulta, selecione, no menu, o caminho: Consulta » Processos Não Distribuídos.
+
+O sistema habilitará a página "Consulta Processo Não Distribuído".
+
+Consulta Processo Não Distribuído
+
+Para localizar um processo que não tenha sido distribuído, informe quaisquer dos filtros disponíveis na tabela "Pesquisar Meus Processos" e clique em "Pesquisar".
+
+Para apagar os filtros informados, clique no botão "Limpar".
+
+O resultado da pesquisa será apresentado na tabela "Meus Processos".
+
+4 Consultar processos
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL – TRF5
+
+A consulta processual abrangerá o universo de processos aos quais o advogado/procurador estiver vinculado, seja no polo ativo ou no polo passivo.
+
+Os processos poderão ser consultados por meio do Painel do Advogado/Procurador ou por meio do menu Consulta » Consulta de Processo.
+
+Fale conosco
+
+Home Audiência Cadastros Auxiliares Cadastros Básicos Correição Inspeção Painel Consulta Cadastro Logout
+
+Consulta de Processo
+
+Selecionado o caminho indicado, o sistema habilitará a página Consulta Processos.
+
+Na tabela Pesquisar Processos, informe quaisquer dos filtros de pesquisa e clique em Pesquisar. Para limpar os filtros indicados, clique em Limpar.
+
+O resultado da pesquisa será disponibilizado na tabela Processos.
+
+(Imagem da tela de consulta de processos com campos para preenchimento e resultados)
+
+Foram encontradas: 2 resoluções
+
+Para ter acesso às informações processuais, clique em “Ver Detalhes”.
+
+Ícone acionado, o sistema abrirá a página Detalhes do Processo, composta pelas abas: “Processo”, “Anexar Petições/Documentos”, “Expedientes”, “Audiência”, “Perícia”, “Anexos Físicos”.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+TRF5
+
+"Distribuição", "Associados", "Retificações", "RPV/PRC", "Acesso de Terceiros" e "Retificações".
+
+4.1 Aba "Processo"
+
+Na aba "Processo", o advogado/procurador poderá visualizar informações gerais sobre o processo, tais como assuntos, partes, documentos etc.
+
+Processo Judicial Eletrônico
+Justiça Federal em Pernambuco
+
+Dados do Processo
+Número processo Data de autuação Data de distribuição Classe judicial Órgão julgador Valor da causa
+0801488 06/12/2012 06/12/2012 EXECUÇÃO CONTRA A FAZENDA PÚBLICA 5ª VARA FEDERAL R$ 54.957,50
+Prioridade Usuário cadastro
+Idoso(a) Ivana Ludmilla Villar Maia
+Lembretes do processo
+Processo Anexar Petições/Documentos Expedientes (37) Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+Download de documentos em PDF Paginador Recurso para TRF
+Movimentações do Processo
+Assuntos
+Assunto
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO | Servidor Público Civil | Sistema Remuneratório e Benefícios | Gratificação de Incentivo | Gratificação de Incentivo
+Foram encontrados: 1 resultados
+Polo ativo Polo passivo
+Participante Tipo de participação Situação RFB Participante Tipo de participação Situação RFB
+JOSE EXEQUENTE FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA EXECUTADO
+Maia - ADVOGADO Não validado Foram encontrados: 1 resultados
+Foram encontrados: 2 resultados
+Outros interessados - Não existem partes cadastradas a outros interessados.
+Participante Tipo de participação Situação RFB
+Foram encontrados: 0 resultados
+Instância Exibir certidões automáticas Tipo de documento Documentos liberados para Número identificador
+[Todos] Sim Não [Todos] procurador renomear
+Documentos
+Identificador Assinatura Descrição Tipo de documento Documentos/ícones
+4088300.3098986 31/03/17 11:03 Inspeção Despacho Inspeção
+4058300.2543538 04/11/16 08:01 Certidão do Requisitório 2018.83.00.008.200027 Certidão
+4058300.1853791 07/04/16 17:54 Inspeção Despacho Inspeção
+
+Por meio do botão Download de documentos em PDF, será permitido baixar e salvar, no computador, todos os documentos do processo ou apenas aqueles que o usuário desejar, convertendo-os em PDF.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Lembretes do processo
+
+Processo © Anexar Petições/Documentos © Expedientes (37) © Audiências Perícia
+
+Paginador
+
+Movimentações do Processo
+
+Recurso para TRF
+
+Anexos Físicos Distribuição © Associados © Retificações © RPV/PRC
+
+EM TRF5
+
+Dados da CDA Acesso de Terceiros
+
+Clicando-se no botão, o sistema exibirá uma janela que possibilitará a realização do download, podendo serem utilizados os filtros disponíveis nos campos “Tipo de Documento” e “Período” ou realizando-se a marcação dos documentos desejados.
+
+Download de documentos em PDF
+
+Selecione os filtros
+
+Tipo de Documento
+-- Todos --
+
+Período
+
+De: Até:
+
+Selecionar
+
+Documentos do Processo
+
+Identificador
+
+4058300.1470383
+
+4058300.1470377
+
+4058300.1470376
+
+4058300.1445351
+
+4058300.1442812
+
+4058300.1440975
+
+4058300.1440974
+
+Cronologia
+
+Limpar
+
+Documento
+
+Petição - Lei nº 10483 - cumprimento
+
+Certidão de Intimação
+
+Certidão de Intimação
+
+Intimação Despacho
+
+Certidão de Intimação
+
+Certidão de Intimação
+
+Crescente © Decrescente
+
+Gerar PDF
+
+Tipo de Documento
+
+Petição
+Certidão de Intimação
+
+Certidão de Intimação
+
+Expediente
+Despacho
+
+Certidão de Intimação
+
+Certidão de Intimação
+
+Data do Protocolo
+
+05/11/2015
+
+05/11/2015
+
+05/11/2015
+
+26/10/2015
+
+23/10/2015
+
+23/10/2015
+
+23/10/2015
+
+Utilize o paginador exibido na parte inferior da janela para visualizar os demais documentos, clicando nos números ou setas para adiantar e voltar a página.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+FEDERAL TRF5
+
+Para filtrar por tipo de documento, clique no campo respectivo e escolha dentre as opções disponíveis.
+
+Download de documentos em PDF
+
+Selecione os filtros
+
+Tipo de Documento
+— Todos —
+
+Contestação
+
+Documento de Comprovação
+Ato Ordinatório
+
+Despacho
+Inspeção
+Documento de Identificação
+Petição
+
+Petição Inicial
+
+Decisão
+
+Selecionar:
+Clicando no botão, todos os documentos daquela opção serão exibidos no quadro “Documentos do Processo”.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Download de documentos em PDF
+
+Selecione os filtros:
+
+Tipo de Documento
+
+Certidão de Intimação
+
+Período
+De: Até:
+
+Selecionar Limpar
+
+Documentos do Processo
+
+Identificador Documento | Tipo de Documento | Data do Protocolo
+
+4058300.1470377 | Certidão de Intimação | 05/11/2015
+
+4058300.1470376 | Certidão de Intimação | 05/11/2015
+
+4058300.1440975 | Certidão de Intimação | 23/10/2015
+
+4058300.1440974 | Certidão de Intimação | 23/10/2015
+
+4058300.1420037 | Certidão de Intimação | 16/10/2015
+
+4058300.774823 | Certidão de Intimação | 11/12/2014
+
+4058300.774822 | Certidão de Intimação | 11/12/2014
+
+Cronologia
+
+Crescente Decrescente
+
+Gerar PDF
+
+Por meio do campo “Cronologia” é possível exibir os documentos na lista de forma crescente ou decrescente pela data do protocolo.
+
+Cronologia
+Crescente Decrescente
+
+Para efetuar e finalizar o download dos documentos em PDF, clique no botão "Gerar PDF". Será gerado um PDF com todos os documentos selecionados.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+A FEDERAL TRF5
+
+Tribunal Regional Federal da 5ª Região
+PJe - Processo Judicial Eletrônico
+Consulta Processual
+
+17/03/2016
+Número: 0800000-00.2016.0.00.0000
+
+Classe: PROCEDIMENTO ORDINÁRIO
+
+Documentos
+
+4058300.1470377 07/01/2015 Certidão de Intimação Certidão de Intimação
+4058300.1470376 07/01/2015 Certidão de Intimação Certidão de Intimação
+09:53
+
+4058300.1440975 23/10/2015 Certidão de Intimação Certidão de Intimação
+
+Por meio do botão, os documentos poderão ser visualizados, individualmente, a partir do último documento incluído.
+
+Lembretes do processo
+
+Processo Anexar Petições/Documentos Expedientes (37) Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPWPRC Dados da CDA Acesso de Terceiros
+
+Download de documentos em PDF Recurso para TRF
+
+Movimentações do Processo
+
+Acionado o botão, o sistema exibirá a página Documentos do processo, composta pelos agrupadores “Detalhes do Processo” e “Pesquisa”.
+
+Ao acionar o agrupador Detalhes do Processo, serão exibidas informações básicas acerca do processo, tais como seu número, as datas de autuação e de distribuição, a classe judicial, o órgão julgador, o relator (no 2° Grau), o valor da causa, a vara de origem e o usuário que o cadastrou.
+
+Por meio do agrupador “Pesquisa”, o advogado/procurador poderá localizar documentos específicos no processo.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF's
+
+Para realizar uma pesquisa, acione o agrupador indicado. Em seguida, selecione, na tabela Pesquisa de Documento, o tipo do documento a ser localizado no processo. Por fim, acione o botão Pesquisar. Para limpar os filtros informados na pesquisa, clique em "Limpar Pesquisa".
+
+Pesquisa de Documento Resultados
+
+Documento Tipo de Documento Assinatura Assinado por:
+(Todos) Certidão Certidão WWW014 19:20 GENTILE
+Pesquisar Limpar Intimação Expediente 1SMNON2014 14:44 FERNANDES
+Despacho Despacho T2014 22:47 DELGADO
+Comunicações Comunicações 1092014 14:40
+Intimação Expediente THOR2014 14:15 SANTOS NETO
+
+Foram encontrados: 66 resultados
+
+Obs. 1: No campo Tipo de Documento, serão exibidos apenas os tipos de documentos que existirem no processo.
+
+Pesquisa de Documento
+
+Tipo de Documento
+[Todos]
+
+Expediente
+Certidão
+
+Petição Inicial
+Decisão
+
+Após a pesquisa, o sistema disponibilizará o resultado na tabela Resultados. Para visualizar o teor dos documentos localizados, clique no ícone "Selecionar".
+
+Pesquisa de Documento Resultados
+
+Documento Tipo de Documento Assinatura Assinado por
+(Todos) Certidão Certidão Pa 15 QUEROZ
+Pesquisar Limpar Certidão Certidão SEN DEAT GENTILE
+Selecionar Certidão HON 17:15 GENTILE
+Certidão Certidão FRANCA
+Certidão Certidão Pa 11:31 BEZERRA
+
+Na tabela Documento, serão visualizados os documentos produzidos no editor de texto. Eles poderão ser paginados clicando-se nas setas "avançar", representadas pelo ícone.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Documentos do processo
+
+Ao passar o mouse sobre os números do paginador, o sistema exibirá o nome correspondente ao tipo de documento. Caso o advogado/procurador queira visualizar o documento, deverá clicar sobre o número correspondente. Em seguida, o sistema exibirá o respectivo teor na tabela Documento.
+
+Documentos do processo
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF's
+
+Na tabela Documentos Associados, serão disponibilizados, caso existam, arquivos em PDF incluídos no processo. Clique no ícone "Arquivo em PDF" e o documento será exibido em uma nova página.
+
+Os arquivos em PDF somente serão disponibilizados no momento em que a petição à qual estão associados estiver sendo visualizada na tabela Documento do paginador.
+
+Recurso para TRF
+
+Por meio do botão , é possível recorrer ao 2° Grau.
+
+- Lembretes do processo
+
+RPVIPRC Dados da CDA | Acesso de Terceiros |
+
+Acionado o botão, o sistema habilitará, em uma nova janela, a tela “Cadastrar Processo de Recurso”:
+
+Processo Judicial Eletrônico
+Justiça Federal da 5ª Região
+
+Cadastrar Processo de Recurso
+Cadastro de Processo
+Seção/Subseção Classe Judicial* Processo Originário
+TRF - 5ª Região Selecione... 0803371-64.2015.4.05.8300
+* Campos Obrigatórios
+
+Inserir
+
+Para prosseguir com o cadastro do processo de recurso, siga os passos constantes no Manual de Interposição de Recurso do Advogado/Procurador.
+
+Movimentações do Processo
+
+Por meio do botão , o sistema exibirá a página Movimentações do Processo, na qual são elencados todos os eventos lançados no processo, refletindo a movimentação disposta na consulta pública.
+
+MANUAL DO ADVOGADO E PROCURADOR – MÓDULO 2
+JUSTIÇA:
+
+Área TRF3
+
+Lembretes do processo
+
+Processo Anexar Petições/Documentos Expedientes (37) Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+
+Download de documentos em PDF Paginador Recurso para TRF
+
+Movimentações do Processo
+
+Conforme a situação do processo, o advogado/procurador poderá indicar em qual grau de jurisdição deseja visualizar as movimentações, selecionando uma das opções do campo "Aplicação", conforme mostra a imagem abaixo:
+
+Dados do Processo
+
+Número Processo Data de Autuação Data de Distribuição Classe Judicial Órgão Julgador Valor da Causa
+[Número do Processo] 16/01/2013 PROCEDIMENTO ORDINÁRIO 1ª VF FEDERAL SP 414.566,00
+
+Usuário Cadastro
+
+Movimentações do Processo
+
+Documento
+[Informações sobre o Documento]
+
+Foram encontrados: 7 resultados
+
+Ainda na aba “Processo”, serão dispostos, na tabela Assuntos, os assuntos vinculados ao processo.
+
+ASSUNTOS
+
+Assunto
+
+DIREITO TRIBUTÁRIO\Contribuições\Contribuições Previdenciárias\1/3 de férias
+Foram encontrados: 1 resultados
+
+Nas tabelas Polo Ativo e Polo Passivo, será(ão) exibida(s) a(s) parte(s) que compuser(em) o processo em cada um desses polos.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+TRF5
+
+= FEDERAL
+Polo Ativo
+Participante | Tipo de Participação | Situação RFB
+CAIXA ECONÔMICA FEDERAL | AGRAVANTE
+Israel | ADVOGADO | Não validado
+
+Foram encontrados: 2 resultados
+
+Polo Passivo
+Participante | Tipo de Participação | Situação RFB
+CONTROLADORIA-GERAL DA UNIÃO | RÉU
+
+Foi encontrado: 1 resultado
+
+Na tabela Outros Interessados, será(ão) disposta(s) outra(s) pessoa(s) que integrar(em) o processo na modalidade: vítima, testemunha, terceiro interessado, custos legis e outros.
+
+Participante | Tipo de Participação
+MINISTÉRIO PÚBLICO FEDERAL | CUSTOS LEGIS
+
+Foi encontrado: 1 resultado
+
+Na tabela Documentos, estarão todos os documentos do processo, exceto aqueles marcados como sigilosos.
+
+Identificador | Data | Assinatura | Documento | Tipo do Documento
+4nee00 | 2789070 | TOI 1631 | Contestação SUDEHE | Contestação
+sDSI00 | 289811 | TOV 1631 | MEMO OLA WADGAF/ORM | Documento de Comprovação
+408800 | 255738 | TOI 1271 | Contestação da SUDENE | Contestação
+4058900 | 276133 | 0UN213 1200 | Certidão | Certidão
+ADRS33 | 276133 | 0UN213 1200 | Mandado | Documento de Comprovação
+AGSEG63 | 276133 | 0UN213 1200 | Mandado | Documento de Comprovação
+apaed63 | 276133 | 0UN213 1200 | Certidão | Certidão
+4058900 | 276133 | 0UN213 1200 | Expediente | Expediente
+4058900 | 276133 | 0UN213 1200 | Expediente | Expediente
+4058900 | 276133 | 0UN213 1200 | Decisão | Decisão
+4058300 | 270768 | 0UN213 1200 | Laudo | Laudo Pericial
+4058300 | 270768 | 0UN213 1200 | Comprovação recolhimentos INSS | Documento de Comprovação
+4058300 | 270768 | 0UN213 1200 | Aste Obrigação de Fazer c/c Pedido Danos Morais c/c Tutela de Urgência | Petição Inicial
+4058300 | 270253 | 0UN213 1200 | Declaração de bens e recibo declaração referente à Contrib. | Documento de Comprovação
+4058300 | 270296 | 0UN213 1200 | Contracheques | Documento de Comprovação
+4058300 | 270298 | 0UN213 1200 | Identidade | Documento de Identificação
+
+Foram encontrados: 17 resultados
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA = TRE
+=JF FEDERAL
+
+Para visualizar os documentos anexados ao processo, clique em um dos ícones na coluna Anexos: |=), para petições, certidões etc; &, caso o documento seja um expediente; e /=, caso seja um documento de comprovação.
+
+Na coluna Certidão, estarão as certidões correspondentes à inclusão do documento. Para visualizar a certidão, clique em |=) Visualizar.
+
+Para realizar a assinatura de um documento, clique em f° Assinar Documento. Será exibida uma nova tela, que apresentará informações sobre o documento e permitirá a sua assinatura.
+
+Informações:
+DapcLerheskt "
+Assinatura Digital
+[swan Data da Assinatura Validação
+Foreman aaconirades: 0) resultados
+Assinar Digitalmente/Protocolar
+
+Para assinar o documento, clique no botão __ Assinar Digitalmente/Protocolar
+
+O sistema solicitará a senha PIN do certificado digital. Informe-a para assinar.
+
+Introduzir PIM
+
+Para efetuar lagan em "e-CPF Certisign’
+
+Intraduzir PIM: |
+
+comprimento mínima do é& 4 bytes
+~~ 2 imento mínima do PIN & 4 byt
+~ © comprimento máximo do PIN é & bytes
+
+Cancelar
+
+Para visualizar informações sobre a assinatura do documento, o usuário que a realizou e a data da assinatura, clique no ícone ‘\#) Validar Assinatura Digital
+
+Na tabela Características do Processo, serão exibidos os campos “Segredo de Justiça”, “Justiça Gratuita” e “Pedido de Liminar/Antecipação de Tutela”, com os respectivos resultados: sim ou não.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+TRF5
+
+Características do Processo
+
+Segredo de Justiça? Justiça Gratuita? Pedido de Liminar/Antecipação de Tutela?
+NÃO SIM NÃO
+
+Foram encontrados: 1 resultado
+
+Caso o processo possua alguma prioridade em seu cadastro, ela(s) será(ão) exibida(s) na tabela Prioridade em Processo.
+
+Prioridade em Processo
+
+Prioridade do Processo
+Idoso(a)
+
+Foram encontrados: 1 resultado
+
+4.2 Aba “Anexar Petições/Documentos”
+
+Por meio da aba “Anexar Petições/Documentos”, composta pelos agrupadores “Associar expediente à petição”, “Cadastro do Documento” e “Incluir Anexos”, o advogado/procurador poderá peticionar no processo. Cada agrupador será abordado individualmente nos itens abaixo.
+
+Processo Anexar Petições/Documentos Expedientes (28) Audiências Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+Associar expediente à petição (Nenhum expediente associado)
+
+Legenda
+(V) Visualizar ato do magistrado
+(D) Visualizar documento
+(M) Expediente com manifestação
+
+Cadastro do Documento
+Descrição* Tipo de documento*
+Selecione... [+]
+Documento sigiloso
+Sim (X) Não
+
+Editor *
+BIU Tipo de fonte Tamanho
+
+Álbum de Imagens
+
+A - Campos Obrigatórios
+
+Incluir anexos
+
+Gravar Remover Assinar Digitalmente/Protocolar
+
+Agrupador “Associar expediente à petição”
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF3
+
+Por meio do agrupador “Associar expediente a petição”, é possível associar expedientes a petições, possibilitando a indicação sobre qual expediente pertencerá sua manifestação. Essa indicação agilizará a análise do documento.
+
+Para tanto, acione o agrupador.
+
+[Imagem: Associar expediente a petição | Nenhum expediente associado]
+
+Agrupador acionado, o sistema exibirá o botão Associar expediente.
+
+[Imagem: Associar expediente a petição | Nenhum expediente associado]
+
+[Imagem: Associar expediente]
+
+Clicando-se no botão Associar expediente, o sistema exibirá a tela Associar expediente a petição, por meio da qual é possível selecionar expedientes e associá-los à petição, criando uma manifestação no processo.
+
+[Imagem: Associar expediente a petição]
+
+[Imagem: Pesquisar expedientes]
+
+[Imagem: Expedientes]
+
+| Associar | Nome Expediente | Cadastro | Confirmado por | Prazo Legal | Prazo Final | (i) | Sugerido | Documentos |
+|---|---|---|---|---|---|---|---|---|
+|  | Villar Maia (Via Sistema) 20/01/2015 (03/03/2015) | 20/01/2015 | Intimado Villar Maia |  |  |  |  |  |
+|  | Villar Maia (Via Sistema) 28/01/2015 (28/02/2015) | 28/01/2015 | SIRI CF |  |  |  |  |  |
+
+Foram encontrados: 2 resultados
+
+Caso seja necessário localizar o expediente que deseja associar, acione o agrupador “Pesquisar expedientes”. Em seguida, informe os filtros necessários e clique em Pesquisar.
+
+Para apagar os dados inseridos nos filtros, clique em Limpar.
+
+PJE MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Associar expediente a petição
+
+Pesquisar expedientes
+
+Manifestação | Tipo de expediente | Meio de expediente
+[Todos]         [Todos]                  [Todos]
+Confirmado por | Período de cadastro | Período do prazo final sugerido
+[Todos]             De Até                          De Até
+Pesquisar Limpar
+
+Expedientes
+Associar Home Expediente Cadastro Confirmado por Petição Família Documentos
+Intimação - Vilar Maia Via Serconay 02/09/2015 (antes) 3 pessoas = QUASAR
+Intimação - Vilar Maia Via Serconay 20/02/2016 (Petição) 0 pessoas = QHGAM
+Associar selecionados Fechar
+
+Foram encontrados: 2 resultados
+
+O resultado da pesquisa aparecerá na tabela Expedientes.
+
+Associar expediente a petição
+Pesquisar expedientes
+
+Manifestação | Tipo de expediente | Meio de expediente
+[Todos]         [Todos]                  [Todos]
+Confirmado por | Período de cadastro | Período do prazo final sugerido
+[Todos]             De Até                          De Até
+
+Expedientes
+Associar Home Expediente Cadastro Confirmado por Petição Família Documentos
+
+Vilar Maia Via Serconay 02/09/2015 (antes) 3 pessoas = QUASAR
+
+Vilar Maia Via Serconay 20/02/2016 (Petição) 0 pessoas = QHGAM
+
+Associar selecionados Fechar
+
+Foram encontrados: 2 resultados
+
+Na coluna Documentos, poderão aparecer os seguintes ícones:
+
+* Visualizar o expediente -  [ ];
+
+* O ato do magistrado vinculado ao expediente - [ ];
+
+* Validar a assinatura - [ ];
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+D | JUSTIÇA TRF5
+
+=f FEDERAL
+
+* Visualizar certidão de intimação
+* Analisar manifestações já efetuadas em determinado expediente
+
+Obs. 1: Quando um expediente tiver uma manifestação, além de receber o ícone "Com manifestação", o expediente em questão será destacado na tabela com um sombreamento na cor cinza, conforme mostrado na tela acima.
+
+Ao acionar o ícone "Com manifestação", o sistema exibirá a página que permite ao advogado/procurador analisar as manifestações já realizadas relativas ao expediente.
+
+Processo Judicial Eletrônico
+Justiça Federal da 5ª Região
+
+Processo 0800082-65.2011.4.05.8300 - CUMPRIMENTO DE SENTENÇA
+
+Expediente
+Nome Expediente | Cadastre | Confirmado por | Em dias | Prazo sugerido | Documentos
+
+Intimação Villar Maia
+Villar Maia Via Sistema 19/08/2015 (03/03/2085) 3 dias REAL
+
+Manifestações do expediente
+Anexado por
+meng Han
+
+Villar Maia
+(OSMG/2015 14:41)
+
+Foram encontrados 3 resultados
+
+Legenda
+
+Visualizar ato do magistrado | Gerar certidão de intimação
+Visualizar documento | Validar assinatura digital
+Visualizar certidão de intimação/Documentos anexados à petição | Responder ao expediente
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - SP - TRF3
+
+Na tabela "Expedientes", para associar um expediente a uma petição, selecione o(s) expediente(s) desejado(s), marcando o(s) checkbox(es) da coluna "Associar". Em seguida, clique no botão "Associar selecionados".
+
+[Botões:]
+
+* Associar expediente à petição
+* Pesquisar expedientes
+
+Expedientes
+
+| Associar | Nome Expediente | Cadastro Confirmado por | Prazo Legal (em dias) | Prazo Final Sugerido | Documentos |
+|---|---|---|---|---|---|
+| [ ] | Intimação Villar Maia | Villar Maia (Via Sistema) | 20/02/2015 | 0 | 03/03/2015 | [Ícone] |
+| [ ] | Intimar ao... Villar Maia | Villar Maia (Via Sistema) | 22/02/2015 | 0 | 04/03/2015 | [Ícone] |
+
+Foram encontrados: 2 resultados
+
+[Botões:]
+
+* Associar selecionados
+* Fechar
+
+Botão acionado, o(s) expediente(s) selecionado(s) será(ão) associado(s) à petição.
+
+[Barra:]
+
+Expediente associado à petição | 1 expediente associado
+
+| Nome Expediente | Cadastro Confirmado por | Prazo Legal (em dias) | Prazo Final Sugerido | Documentos |
+|---|---|---|---|---|
+| [Nome do Expediente] | [Informações de Cadastro] | [Prazo Legal] | [Prazo Final] | [Ícone] |
+
+[Botão:]
+
+* Associar outro expediente
+
+Foram encontrados: 1 resultado
+
+Obs. 2: Uma vez associado pelo menos um expediente, para realizar novas associações, clique no botão "Associar outro expediente".
+
+O expediente associado poderá ser visualizado por meio do ícone [Ícone]. Para remover o vínculo da petição com o expediente, clique no ícone [Ícone] Desvincular. Em seguida, o sistema exibirá uma mensagem de confirmação.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+TRF5
+
+Deseja desassociar o expediente do documento?
+
+Para confirmar, clique em “OK”.
+
+Para fechar, clique em “Cancelar”.
+
+Agrupador “Cadastro do Documento”
+
+Para anexar petições/documentos por meio do agrupador “Cadastro do Documento”, realize os seguintes passos.
+
+Processo Anexar Petições/Documentos Expedientes (28) Audiências Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+Associar expediente à petição (Nenhum expediente associado)
+
+Legenda
+Visualizar ato do magistrado
+
+Visualizar documento
+Expediente com manifestação
+Cadastro do Documento
+Descrição* Tipo de documento*
+Documento sigiloso
+Sim Não
+Editor*
+BIU Tipo de fonte Tamanho
+
+Album de Imagens
+
+Campos Obrigatórios
+
+Incluir anexos
+
+Gravar Remover
+
+Assinar Digitalmente/Protocolar
+
+(!) Atenção: os campos marcados com asterisco vermelho (*) são obrigatórios, isto é, imprescindíveis para a realização da operação.
+
+1° passo: informe, no campo Descrição, o nome do documento que estiver sendo criado.
+
+Esse nome facilitará sua localização na consulta de documentos do processo.
+
+Descrição *
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO (TRF5)
+
+2º passo: no campo "Tipo de Documento", selecione o tipo de documento que será anexado.
+
+Tipo de Documento*
+Selecione...
+
+O tipo de documento lançará, na movimentação do processo, o evento específico, correspondente à tabela de movimentos do CNJ.
+
+3º passo: caso deseje solicitar sigilo da petição, clique em "Documento Sigiloso?".
+Sim Não
+
+O documento que tiver recebido essa marcação ficará disponível apenas para o magistrado, diretor de secretaria e assessor até que o magistrado analise o pedido e decida pela concessão ou não do sigilo. Em caso positivo, indicará outros servidores e partes que poderão visualizar o documento.
+
+Por fim, confeccione o documento no editor de texto e clique em "Salvar" para registrar os dados inseridos.
+
+Processo Anexar Petições/Documentos Expedientes (23) Audiências Penais Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+
+Associar expediente à petição (Nenhum expediente associado)
+
+Legenda
+Visualizar ato do magistrado
+Visualizar documento
+
+Expediente com manifestação
+
+Cadastro do Documento
+
+Descrição* Tipo de documento*
+Selecione...
+
+Documento sigiloso
+Sim Não
+
+Editor *
+
+B I U Fonte Tamanho
+
+Álbum de Imagens
+
+Campos Obrigatórios
+
+Incluir anexos
+
+Gravar Remover Assinar Digitalmente/Protocolar
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+SF FEDERAL = TRFs
+
+Para assinar o documento, clique em Assinar Digitalmente/Protocolar.
+
+Caso queira remover os dados gravados, clique em Remover.
+
+Inserindo imagens
+
+O advogado/procurador poderá utilizar imagens na criação de sua petição. Para utilizar esse recurso, acione o botão “Álbum de imagens”.
+
+Em seguida, o sistema disponibilizará o álbum de imagens. Clique na imagem desejada e arraste-a para o editor de texto.
+
+Processo Anexar Petições/Documentos Expedientes (28) Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+
+Associar expediente à petição (1 expediente associado)
+
+Legenda
+Visualizar ato do magistrado
+
+Visualizar documento
+
+Expediente com manifestação
+Cadastro do Documento
+
+Descrição* Tipo de documento*
+Selecione...
+
+Documento sigiloso
+Sim Não
+Editor *
+
+Descricão* Tipo de Documentos”
+
+Setecn bad > Nova magem
+Sobchar Sapte?
+
+~_ _
+Blue BB BM toocne- tare - 2K DEBS AB’
+
+- “A-Z@-@
+—2bexwe N2Ee sd Y- Bel
+
+*
+-*
+-
+*
+-*
+-
+*
+-
+-
+-
+al
+-
+-*
+-
+*
+*
+-
+mr)
+-
+*
+*
+
+Para incluir imagem no editor, clique na imagem desejada
+e arraste-a para o editor de texto, soltando-a em seguida
+Para excluir imagem do editor, clique sobre a imagem
+A + Cerone Conganinns e delete-a, utilizando a tecla “Delete” do teclado
+
+A - Campos Obrigatórios
+
+Incluir anexos
+
+Gravar Remover Assinar Digitalmente/Protocolar
+
+Para incluir imagem no editor, clique na imagem desejada e arraste-a para o editor de texto, soltando-a em seguida.
+
+Para excluir a imagem adicionada ao editor, clique sobre a imagem e delete-a, utilizando a tecla “Delete”.
+Para incluir novas imagens no álbum, clique em Nova imagem. Será habilitada a tela para seleção de arquivos para upload.
+
+Pjé MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF3
+
+Examinar: Imagens
+
+Nome, Entrada, Marcas, Tamanho, Classificação
+
+Locais Recentes: Antílope, Orix, Árvore, Atracadouro, Baleia Jubarte, Desktop, Cascata, Flores, Flor, Sega, Floresta, Floresta, Frangipani, Computador, Falta de Jardim, Oryx Artelope.
+
+[989097 ps]
+
+Selecione a imagem a ser carregada no álbum e clique em [Abrir]. A imagem ficará gravada no álbum de imagens.
+
+Criada a petição no editor de texto, o advogado/procurador deverá assiná-la.
+
+Obs. 3: Criada sua petição no editor de texto do sistema, caso o advogado/procurador não deseje assiná-la imediatamente, deverá clicar no botão “Gravar”. Posteriormente, os documentos poderão ser assinados:
+
+*   na aba “Processos”, tabela “Documentos”, coluna “Anexos”, por meio do ícone:
+    Assinar Documento
+*   na página “Documentos não Assinados”, acessada, no menu, por meio do caminho Consulta » Documentos Não Assinados.
+
+Obs. 4: Os documentos somente serão visualizados pela Justiça quando estiverem devidamente assinados. É a assinatura que inclui a petição no processo.
+
+Caso o advogado/procurador não deseje associar arquivos em PDF, deverá realizar a assinatura da petição, clicando no botão Assinar Digitalmente, informando, em seguida, a sua senha PIN.
+
+*   Ferramentas auxiliares do editor de textos do sistema
+
+No editor, além das ferramentas já conhecidas, o sistema apresenta 04 (quatro) ícones que auxiliarão nas atividades de edição de texto, a saber.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+SP FEDERAL - TRF's
+
+Editar
+
+1. O ícone "Tela Inteira" permite visualizar o editor em tela inteira. Para retornar à tela de origem, basta clicar novamente sobre o mesmo ícone.
+
+2. O ícone "Salvar Como..." permite salvar o documento elaborado no editor em formato HTML. Essa ação permitirá que o advogado/procurador crie modelos de documentos em seu computador, os quais poderão ser utilizados em momento posterior.
+
+3. O ícone "Importar..." permite inserir, no editor de texto, o documento salvo em HTML.
+
+Ao acioná-lo, o sistema habilitará uma nova tela denominada "Upload".
+
+Upload
+
+Arquivo
+
+Adicionar - Nela, acione o botão Adicionar. O sistema abrirá a interface para a escolha do arquivo.
+
+Documento de texto HTML
+
+Selecione o arquivo e clique no botão "Abrir". O sistema exibirá o documento no editor de texto, permitindo alterações no seu teor.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA,
+
+A FEDERAL TRFS
+
+*
+
+@ Enviar arquivo
+
+OuW>- ES Desktop > ¥ +> Pesquisar
+My Organizar ~ = Modos de exibição + fe Nova Pasta ’
+Fa aes Nome. Tamanho Tipo Modificado em 7
+El Locais Recentes m | Público =
+jl ~Computador
+BM Desktop
+. j
+[E) Documentos xX enema z =
+~ ow Selecione o arquivo em HTML
+IE) Imagens ~ e clique no botão “Abrir”.
+[2 Músicas ) Rede
+(4f Alterados Recentem... —
+Bp - Adobe Reader9
+esquisas lien
+A Público a 1,84 KB
+
+SS BrOffice 3.3
+al 997 b a
+alee ra Ga» Mozilla Firefox i
+
+~ Todos os arquivos z,
+
+Nome:
+
+4.  O ícone “Restaurar Rascunho” permite a recuperação do teor do documento salvo como rascunho, devido à existência de uma ferramenta do sistema chamada de “autosave”, a qual salva automaticamente o conteúdo digitado no editor de texto a cada 30 segundos. Ao acioná-lo, o sistema exibirá a tela Rascunho.
+
+Rascunho
+
+Usuário Tarefa Data Rascunho Ações
+
+ANTONIO SOARES OR 12/01/2013 16:48:16 = Texto para exibição no manual coal | ra
+
+Por meio dos ícones disponíveis na coluna Ações, é possível visualizar (__); remover
+(t#) ou utilizar o rascunho salvo (__). Ao acionar esse último ícone, o conteúdo do rascunho será alocado no editor.
+
+Pjé MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA - TRF
+= FEDERAL
+
+Rascunho
+
+Usuário | Tarefa | Data | Rascunho | Ações
+
+teste | | 06/02/2018 | ico 14:38:20 |
+
+Editor
+
+B I U A x² ≡≡≡ Fonte Tipo de fonte Tamanho
+
+Rascunho alter.
+
+Para gravar o documento criado no editor de texto, clique no botão Gravar.
+
+O documento poderá ser removido. Para isso, clique no botão Remover.
+
+Concluído o documento, clique no botão Assinar Digitalmente/Protocolar para assiná-lo e protocolá-lo ao mesmo tempo, quando o documento está sendo incluído num processo que já existe.
+
+Uma vez assinado, o documento não pode ser alterado. Em se tratando de cadastro de processo inicial, o botão que aparece é Assinar Digitalmente.
+
+Obs.: Caso o advogado/procurador deseje incluir arquivos em PDF, a inclusão de um documento HTML (certidão, ato ordinatório) é de cunho obrigatório. O sistema não aceita a inclusão de arquivos em PDF sem que haja um documento criado no editor de textos.
+
+Agrupador “Incluir Anexos”
+
+Para incluir arquivos em PDF, observe as seguintes orientações:
+
+Deverá ser criado, conforme descrito acima, uma petição ou documento no editor de texto.
+
+Obs.: Na tentativa de incluir arquivos em PDF sem uma petição ou documento criados previamente, o sistema apresentará a mensagem:
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+TRIBUNAL REGIONAL FEDERAL TRF5
+
+Editor * Campo obrigatório.
+
+Incluir Anexos
+
+Após criar o documento no editor de texto, acione o agrupador “Incluir anexos”.
+
+Incluir Anexos
+
+O sistema abrirá a tela para inclusão de arquivos no formato PDF.
+
+Incluir anexos
+
+Arquivo
+
+Adicionar
+
+Obs.: Será permitida a inclusão de documentos em formato PDF com tamanho máximo de 5MB. A resolução recomendada é de 200 dpi.
+
+Permitido apenas o envio do tipo "pdf".
+Tamanho máximo: 5MB.
+Para melhor visualização, a resolução recomendada é de 200 dpi.
+
+Para visualizar o documento, clique sobre o seu nome.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+SA FEDERAL TRF5
+
+Adicionar
+
+Clique no botão para selecionar o arquivo que deseja incluir.
+
+Enviar arquivo
+
+Organizar Nova pasta
+
+Favoritos
+
+Bibliotecas
+Documentos Corregedoria do
+= Adobe Acrobat Document
+Locais
+
+Downloads Computador
+PROVIMENTO_15_2014_CJF-1
+
+Adobe Acrobat Document
+
+Bibliotecas Adobe Reader XI
+
+Documentos Atalho
+Imagens - 84 KB
+Músicas BrOffice.org 3.2 CCleaner
+Atalho Atalho
+27 bytes
+
+Subversion
+
+Vídeos
+Mozilla Firefox PDFCreator
+
+Atalho Atalho
+
+Computador 1,01 KB 745 bytes
+Sistema (C:) Sic - Atalho
+
+Todos os arquivos
+
+Canesten
+
+Obs.: Poderá ser selecionado mais de um arquivo ao mesmo tempo, até o limite de 40 documentos.
+
+Selecionado(s) o(s) arquivo(s), para incluí-los, clique no botão.
+Atenção: os campos marcados com asterisco vermelho (*) são obrigatórios, isto é, imprescindíveis para a realização da ação pretendida.
+
+Informe, no campo Descrição, o nome do documento que estiver sendo incluído. Esse nome facilitará a sua localização na consulta de documentos do processo.
+
+Descrição *
+
+No campo Tipo de Documento, selecione a opção desejada.
+Tipo de Documento *
+Selecione...
+
+No campo Documento Sigiloso?, o advogado/procurador poderá solicitar o sigilo do documento, o qual será apreciado pelo magistrado.
+
+Documento Sigiloso?
+
+Sim Não
+
+Para realizar essa solicitação, marque o check indicado:
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF5
+
+Caso haja alguma falha no carregamento do arquivo, o sistema exibirá o ícone X.
+
+Arquivo
+
+Adicionar X - Limpar
+
+1 Consulta Prov. 15_2014 Corregedoria do CJF.pdf Descrição Tipo de documento Documento sigiloso?
+84,7 KiB Consulta Prov. 15 2014 Corregedoria do CJF Selecione Sim Não
+
+Com o carregamento efetuado corretamente, serão exibidos o ícone e a seguinte mensagem de sucesso:
+
+2 PROVIMENTO_15_2014_CJF-1.pdf Descrição Tipo de documento Documento sigiloso?
+128,2 KiB PROVIMENTO 15 2014 CJF-1 Documento de Comprovação Sim Não
+
+Havendo inclusão de mais de um arquivo, eles poderão ser ordenados da maneira escolhida pelo usuário, utilizando-se os ícones .
+
+Incluir anexos
+
+Arquivo
+
+Adicionar X - Limpar
+
+1 Consulta Prov. 15_2014 Corregedoria do CJF.pdf Descrição Tipo de documento Documento sigiloso?
+84,7 KiB Consulta Prov. 15 2014 Corregedoria do CJF Documento de Comprovação Sim Não
+
+2 PROVIMENTO_15_2014_CJF-1.pdf Descrição Tipo de documento Documento sigiloso?
+128,2 KiB PROVIMENTO 15 2014 CJF-1 Documento de Comprovação Sim Não
+
+O sistema permitirá, ainda, a remoção desses arquivos.
+
+Para excluir o arquivo incluído, clique no ícone da lixeira.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRFs
+
+Consulta Prov. 15/2014 Corregedoria - Descrição:
+
+CJF.pdf Consulta Prov. 15/2014 Corregedoria do CJF Documento de Comprovação [X] Sim Não
+84,7 KiB
+
+O sistema alerta a ação com a mensagem abaixo:
+
+Deseja realmente excluir o(s) registro(s)?
+
+[Cancelar]
+
+Para prosseguir com a exclusão, clique em [OK].
+
+Clique em [Cancelar] para desistir da ação.
+
+Com a confirmação da exclusão do documento, será exibida a mensagem:
+
+Registro(s) excluído(s) com sucesso.
+
+Para excluir de uma única vez todos os arquivos incluídos, clique no botão [Limpar].
+O sistema exibirá a mensagem abaixo:
+
+Deseja realmente excluir o(s) registro(s)?
+
+Para prosseguir com a exclusão, clique em [OK].
+
+[Cancelar]
+
+Clique em [Cancelar] para desistir da ação.
+
+Documento(s) excluído(s), o campo ficará limpo para novas inclusões.
+
+PJe - MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL - TRF 1ª REGIÃO
+
+Incluir anexos
+
+Arquivo
+Adicionar
+
+O sistema permite, ainda, a remoção do documento criado, com todos os seus anexos.
+Para remover um documento, clique em Remover. O sistema exibirá a seguinte mensagem:
+
+Informação
+
+O sistema excluirá todos os dados/documentos desta tela. Deseja continuar?
+
+Sim Não
+
+Para excluir todos os documentos (petição e pdf), clique em Sim.
+Para cancelar a ação, clique em Não.
+
+Para realizar a assinatura do documento criado no editor de texto e dos anexos vinculados a ele, clique no botão Assinar Digitalmente.
+
+O sistema solicitará a senha PIN, que deverá ser informada para a efetivação da assinatura.
+Obs.: o documento e seus anexos poderão ser assinados em momento posterior por meio dos seguintes caminhos:
+
+e na aba “Processos”, tabela “Documentos”, coluna “Anexos”, por meio do ícone:
+Assinar Documento
+
+Documentos
+
+Identificador Assinatura Documento Tipo de Documento Anexos Certidão
+
+4058300.1820989 28/03/16 11:40 Petição Petição
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+Na página “Documentos não Assinados”, acessada, no menu, por meio do caminho:
+
+Consulta » Documentos Não Assinados.
+
+4.3 Aba “Expedientes”
+
+A aba “Expediente” apresenta informações acerca de todos os expedientes gerados no processo, tais como o nome do destinatário; tipo e meio de expediente; datas de cadastro e de confirmação; nome de quem o recebeu; prazo legal atribuído ao expediente (se houver); data final do prazo e visualização do expediente.
+
+[Imagem da tabela de Expedientes]
+
+Obs. 1: quando um expediente tiver pelo menos uma manifestação (petição vinculada a um expediente), além de receber o ícone [ícone] “Com manifestação”, o expediente em questão será destacado na tabela com um sombreamento na cor cinza, conforme mostrado na tela acima.
+
+Para localizar expedientes, acione o agrupador “Pesquisar expedientes”.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+
+Pesquisar expedientes
+
+Agrupador acionado, o sistema habilitará a tabela que permite a pesquisa de expedientes.
+
+Para tanto, informe um dos filtros disponibilizados e clique em "Pesquisar".
+
+Unidade | Tipo de expediente | Número de expediente | Comarca
+
+[Todos] | [Todos] | [Todos] | [Todos]
+
+Período de cadastro | Período do prazo final superior
+
+De: [ ] Até: [ ]
+
+Para apagar os dados inseridos nos filtros, clique em "Limpar".
+
+O resultado da pesquisa será exibido na tabela Expedientes.
+
+Por meio dos ícones disponibilizados na coluna Documentos dessa tabela, é possível:
+
+visualizar o expediente - ( ); validar a assinatura digital - ( ); gerar certidão de intimação - ( );
+
+analisar manifestação - ( ); e responder expediente - ( ).
+
+Obs.: Ao acionar o ícone ( ) "Com manifestação", o sistema exibirá, em uma nova tela, o expediente e a petição que lhe foi vinculada (manifestação).
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+TRF5
+
+Processo Judicial Eletrônico
+10:44:46
+
+Justiça Federal da 5ª Região
+
+Processo 0800082-65.2011.4.05.8200 - CUMPRIMENTO DE SENTENÇA
+
+Expediente
+Nome Expediente Cadastro Documentos
+Villar Maia n2M32015
+Manifestações ao expediente
+Identificador Tipo de documento Anexado por
+Petição nanerans 4663 Villar Maia
+(03/03/2015 14:40)
+Petição nanerans 4663 Villar Maia
+(03/03/2015 14:41)
+Foram encontrados 3 resultados
+
+Legenda
+Visualizar ato do magistrado Gerar certidão de intimação
+
+Visualizar documento Validar assinatura digital
+Visualizar certidão de intimação Documentos anexados à petição Responder ao expediente
+
+Obs. 3: É possível responder ao expediente acionando o atalho “Responder ao expediente”.
+
+Ao acioná-lo, o sistema exibirá a aba “Anexar Petição/Documentos” devidamente aberta e com o expediente já vinculado, cabendo ao patrono redigir o teor de sua manifestação, associar arquivos em PDF, caso necessário, e gravar ou assinar digitalmente/protocolar.
+
+Obs. 4: Uma vez gerada a certidão de intimação, o ícone será substituído pelo ícone Certidão de intimação.
+
+Obs. 5: Se o expediente estiver pendente de intimação, ao selecioná-lo para visualização, o sistema acionará uma mensagem informando que a visualização do expediente deflagrará a contagem do prazo atribuído.
+
+MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA
+AG FEDERAL TRFS
+
+Confirmar
+
+Este processo tem uma intimação pendente de ciência. Se continuar, será dado por intimado. Deseja prosseguir?
+Sim Não
+
+Para confirmar a visualização da intimação, clique em | Ok |. Para cancelar a visualização da intimação, clique em | Cancelar |.
+
+Para visualizar informações sobre a assinatura do documento, clique em Validar Assinatura Digital.
+O sistema abrirá uma nova janela, informando o nome do usuário que assinou o documento e a data de assinatura.
+
+Documento
+Assinatura Digital
+Usuário Data da Assinatura Validação
+MAURICIO LEITE ROCHA 20/11/2013 NÃO VALIDADO
+
+Foram encontrados: 1 resultado
+
+Ao clicar no agrupador “Documento”, disponibilizado na mesma tela, serão exibidos o número do processo, o nome do usuário que anexou o documento e a data em que foi anexado.
+
+Informações:
+Documento
+Processo
+0000001-30.2011.4.01.3608
+Anexado por
+MAURICIO
+Anexado em
+25/01/2023 16:49
+Assinatura Digital
+Usuário Data da Assinatura Validação
+
+MAURICIO LEITE ROCHA 20/11/2013 NÃO VALIDADO
+Foram encontrados: 1 resultado
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2 6
+JUSTIÇA
+< FEDERAL TRF's
+
+Na aba “Expedientes”, é exibido, ainda, o botão “Gerar Planilha”, por meio do qual é possível criar uma planilha contendo a lista dos expedientes do processo.
+
+[Imagem com dados de expedientes]
+
+Total de encontrados: [Número] resultados
+
+Gerar Planilha
+Legenda:
+(ícone) Visualizar detalhes de registro/ Gerar certidão de inteiro teor
+(ícone) Visualizar documentos/ Validar assinatura digital
+(ícone) Visualizar certidão de intimação/ Expediente com manifestação
+(ícone) Responder ao expediente
+
+4.4 Aba “Audiência”
+
+Por meio dessa aba, o advogado/procurador poderá consultar as audiências marcadas para o processo.
+
+Processo Anexar Petições/Documentos Expedientes Audiências Perícia Anexos Físicos Distribuição
+Audiências do Processo
+
+Data Prevista Tipo de Audiência Sala
+[Dados da audiência, se houver]
+
+4.5 Aba “Perícia”
+
+A aba “Perícia” apresenta informações acerca de todas as perícias marcadas, canceladas ou redesignadas no processo.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL
+
+E-TRF5
+
+Processo « Anexar Petições/Documentos © Expedientes (2) Audiência Penência © Anexos Físicos © Distribuição © Associados
+
+Pesquisa
+
+Data
+
+4.6 Aba “Anexos Físicos”
+
+Valor da Pesquisa Petição
+
+Usuário: CARLO FERNANDES DE ALMEIDA
+
+Por meio dessa aba, serão visualizadas informações acerca dos objetos físicos vinculados ao processo, tais como a descrição do objeto, a data do cadastro, a parte a quem ele foi vinculado e o grau de jurisdição no qual foi incluído.
+
+Processo Anexar Petições/ Documentos Expedientes (2) Audiência Penência Anexos Físicos Distribuição Associados
+
+Anexos Físicos
+
+Planta genérica
+
+4.8 Aba “Distribuição”
+
+Data de Cadastro Vinculado a: Grau
+11/04/2013 RAFAEL LEMME 1
+
+Por meio dessa aba, serão visualizadas informações acerca da distribuição e redistribuições do processo.
+
+Andamento
+Petições/ Documentos (2)
+
+Histórico Distribuição
+
+Data Órgão Julgador
+24/04/2018 1ª TURMA
+27/05/2019 1ª VARA FEDERAL
+
+4.8 Aba “Associados”
+
+Audiência Penência Anexos Distribuição Associados Retificações RPV/PRE Dados
+
+Físicos de CDA Terceiros
+
+Cargo Tipo Motivo Processo Originário Processo Referência
+Substituto Sorteio
+
+Foram encontrados: 1 resultados.
+
+Por meio da aba “Associados”, é possível visualizar todos os processos associados ao
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2 8
+JUSTIÇA FEDERAL - TRF5
+
+Processo que estiver sendo consultado.
+
+Processo Anexar Petições/Documentos Expedientes (2) Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+
+Pesquisa de processos associados
+
+Remover Processo do Agrupador
+Filtro da pesquisa
+Associados
+
+Processo Distribuição Assunto Tipo da associação Status Validação/Prevenção Associação Jurisdição
+
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL
+0800605-24.2017.4.05.8311
+
+CAIXA ECONÔMICA FEDERAL - CEF (00.360.305/0916-65) - EXEQUENTE
+RICARDO DA SILVA OLIVEIRA (384.187.208-11) - EXECUTADO e outros
+
+Compromisso Associados Pendente 06/02/2018 Jaboatão dos Guararapes
+
+Foram encontrados: 1 resultado
+
+Estarão sob a condição de associados aqueles processos dependentes, incidentes e todo aquele que o magistrado assim determinar.
+
+4.9 Aba “Retificações”
+
+Nessa aba, o advogado/procurador poderá visualizar o histórico das retificações realizadas no processo. Serão exibidas informações, tais como a data e a hora em que a retificação foi realizada, o item retificado, a operação realizada, a situação anterior e a atual.
+
+Retificações
+
+Data/Hora Item Operação Realizada Situação Anterior Situação Atual
+
+ALESSANDRA, ALESSANDRA PATRICIA
+
+Parte Incluída
+ALESSANDRA ALESSANDRA PATRICIA
+
+4.10 Aba “RPV/PRC”
+
+Por meio da aba “RPV/PRC”, é possível visualizar todas as RPVs cadastradas no processo.
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL TRF5
+Processo Anexar Petições/Documentos Expedientes Audiência Perícia Anexos Físicos Distribuição Associados Retificações RPV/PRC Dados da CDA Acesso de Terceiros
+
+Pesquisar
+
+RPV/Precatório
+
+Requisição Assunto Principal Confecção
+Precatório (Assinado)
+2017.20.00.012.200220
+Valor: R$ 117.919,52
+Pagamento em Pecúnia 04/10/2017 12:40
+
+Beneficiário: CARLOS
+Executado: FUNDAÇÃO NACIONAL
+Foram encontrados: 1 resultados
+
+Legenda
+Dados dos pagamentos do requisitório
+
+Tarefa atual do requisitório
+
+Histórico de situação do requisitório
+
+Remover registro
+
+4.11 Aba “Dados da CDA”
+
+Por meio da aba “Dados da CDA”, serão visualizadas informações acerca das Certidões de Dívida Ativa — CDA.
+
+Anexar Audiência Perícia Anexos Distribuição Associados Retificações RPV/PRC Dados da Acesso de
+Petições/Documentos Físicos CDA Terceiros
+CDA’s
+Pessoa Assuntos Processo administrativo APA Observação Valor
+001 Principal: Maria R$ 100,00
+
+Foram encontrados: 1 resultados
+
+4.12 Aba “Acesso de Terceiros”
+
+Por meio da aba “Acesso de Terceiros”, é possível visualizar todos os acessos realizados por advogados e procuradores não vinculados ao processo.
+
+Processo Anexar Expedientes Audiência Perícia Anexos Distribuição Associados Retificações RPV/PRC Dados da Acesso de
+Petições/Documentos Físicos CDA Terceiros
+Acesso de Terceiros
+Data e hora Advogado/Procurador OAB/Procuradoria Motivo
+FABIANO
+
+Foram encontrados: 1 resultados
+
+Para visualizar o motivo apontado, clique no ícone .
+
+5 Consulta a processos de terceiros
+
+PJe MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2
+JUSTIÇA FEDERAL TRF5
+
+O sistema permite a consulta a processos de terceiros, ou seja, processos em que o advogado/procurador não estiver atuando no cadastro de partes do processo.
+
+Para acessar essa funcionalidade, siga o caminho: Consulta » Consulta a Processos de Terceiros.
+
+[Imagem do Processo Judicial Eletrônico, Justiça Federal da 5ª Região, com menu de Consulta, Cadastro, Logout e a opção "Consulta a Processos de Terceiros"]
+
+Acessado o menu, o sistema disponibilizará a página "Consulta a Processos de Terceiros".
+
+[Imagem da página "Consulta a Processos de Terceiros" com campos para Número do Processo, Órgão Julgador, Distribuição, Classe Judicial, Polo Ativo, Polo Passivo, etc. e um exemplo preenchido com "AUTOR: PABLO" e "ADVOGADOS: DOBRASE"]
+
+(Os processos em destaque possuem documentos associados)
+
+Para realizar uma consulta a processo de terceiros, informe, na tabela "Pesquisar Processos de Terceiros", os filtros necessários à pesquisa e clique em "Pesquisar". Para apagar os dados inseridos nos filtros, clique em "Limpar".
+
+MANUAL DO ADVOGADO E PROCURADOR – MÓDULO 2
+JUSTIÇA FEDERAL - TRF's
+
+Pesquisado(s) o(s) processo(s), o sistema disponibilizará o resultado da pesquisa na tabela "Consulta a Processos de Terceiros".
+
+Para detalhar o processo, clique no ícone "Ver Detalhes". O sistema exibirá a tela "Dados da Motivação", cujo preenchimento é obrigatório.
+
+Dados da Motivação
+
+Para a visualização do processo, é obrigatória a demonstração de seu interesse para fins de registro, conforme Resolução 121/2010 CNJ.
+
+Motivação: Gravar Cancelar
+
+Informe a motivação e clique no botão "Gravar".
+
+Registrada a motivação, será habilitado o detalhamento do processo, por meio de uma nova página.
+
+Caso desista de acessar os detalhes do processo, clique em "Cancelar".
+
+As informações sobre os acessos serão disponibilizadas na aba "Acesso de Terceiros" e, por meio do ícone, a motivação poderá ser consultada.
+
+Consulta Pública
+
+A consulta pública de processos judiciais eletrônicos deverá ser realizada por meio da página de cada Seção Judiciária, a partir do banner "Processo Judicial Eletrônico - Consulta Pública".
+
+Ao acessar a consulta pública, o sistema disponibilizará a página "Consulta Pública", formada pela aba "Pesquisar".
+
+PJe MANUAL DO ADVOGADO E PROCURADOR - MÓDULO 2
+JUSTIÇA FEDERAL
+
+Para consultar um processo, deve-se informar, no mínimo, um (01) filtro de pesquisa, juntamente com o texto informado pelo sistema no campo "Informe o texto abaixo", de cunho obrigatório.
+
+Observe o detalhamento dos filtros de pesquisa existentes:
+
+Seção/Subseção: Nesse campo, deverá ser indicada a seção em que será realizada a consulta pública.
+
+Fortaleza
+Juazeiro do Norte
+Limoeiro do Norte
+Sobral
+
+Processo: Nesse campo, deverá ser informado o número do processo a ser pesquisado.
+
+Nome da Parte: Nesse campo, deverá ser indicado o nome da parte a ser pesquisada.
+
+Nome do Advogado: Nesse campo, deverá ser indicado o nome do advogado a ser pesquisado.
+
+Classe Judicial: Nesse campo, deverá ser indicada a classe judicial a ser pesquisada. O sistema buscará a classe de acordo com a palavra informada.
+JUSTIÇA FEDERAL TRF5
+
+CNPJ/CPF: Nesse campo, deverá ser marcado o "check" que permitirá a indicação de CPF e sua descrição numérica ou a indicação do CNPJ e sua descrição numérica.
+
+OAB: Nesse campo, deverá ser indicado o número da OAB a ser pesquisado.
+
+Nesse campo, cujo preenchimento é obrigatório, deverão ser informados os caracteres exibidos pelo sistema.
+
+Digite os caracteres da imagem: *
+
+Após o preenchimento do(s) filtro(s), clique em Pesquisar.
+
+Iniciada a consulta, o sistema exibirá o resultado na tabela Processo.
+
+Pesquisa Pública
+
+Usuário
+[Todos]
+Processo AUTOR: BEZERRA LEITE & outro ÓRGÃO: MINISTÉRIO PÚBLICO FEDERAL Assunto: Cível/Coisas/Propriedade/Reivindicação/Imissão na Posse Natureza: Ordinário/Outras
+REV: VARA FEDERAL
+
+Nome do Advogado
+Chave Judicial
+CNPJ/CPF
+OAB
+
+Digite os Caracteres da imagem:
+
+MANUAL DO ADVOGADO E PROCURADOR – MÓDULO 2
+JUSTIÇA
+
+JR FEDERAL TRFS
+
+Para realizar uma nova consulta, clique em “Nova Consulta”.
+
+Para visualizar os detalhes do processo consultado, clique no ícone "Ver Detalhes".
+
+O sistema abrirá, em uma nova página, o detalhamento do processo, permitindo a impressão das informações apresentadas.
+
+Dados do Processo Detalhe do Processo
+
+Cadastro do Processo
+Número Data de Distribuição Classe Julgador
+[Conteúdo ilegível] 21/11/2014 [Conteúdo ilegível] 2ª VARA FEDERAL
+Assuntos:
+DIREITO CIVIL/Coisas/Propriedade/Reivindicação - Sofre Ação/Recurso em sentido estrito/Extraordinário ou Ação Rescisória
+
+Participantes: 2 resultados
+Polo Ativo
+Participante Tipo de Participante Situação RFB
+[Nome ilegível] AUTOR
+[Nome ilegível] ADVOGADO Não verificado
+Foram encontrados: 2 resultados
+
+Polo Passivo
+Participante Tipo de Participante Situação RFB
+UNIÃO FEDERAL - UNIAO ADV
+Foram encontrados: 1 resultado
+
+Aplicar Filtros
+[Todos]
+
+Movimentações do Processo
+[Conteúdo ilegível] Juntada de Certidão de Objeto e Pé [Conteúdo ilegível] (1ª Instância)
+[Conteúdo ilegível] Expedido despacho de mero expediente [Conteúdo ilegível] (1ª Instância)
+[Conteúdo ilegível] Conclusos para despacho (1ª Instância)
+[Conteúdo ilegível] Redistribuído por Dependência em razão de Dependência para 2ª VARA FEDERAL (1ª Instância)
+[Conteúdo ilegível] Expedido despacho de mero expediente (1ª Instância)
+[Conteúdo ilegível] Conclusos para despacho (1ª Instância)
+[Conteúdo ilegível] Conclusos para despacho (1ª Instância)
+[Conteúdo ilegível] Distribuído por Sorteio para 3ª VARA FEDERAL (Substituto) (1ª Instância)
+Foram encontrados: 8 resultados
+
+[Conteúdo ilegível]
+
+Para imprimir as informações, clique em "Imprimir".
+
+PJE MANUAL DO ADVOGADO E PROCURADOR — MÓDULO 2

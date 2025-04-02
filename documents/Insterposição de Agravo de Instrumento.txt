@@ -1,0 +1,1394 @@
+MANUAL DE
+
+INTERPOSIÇÃO DE AGRAVO DE
+INSTRUMENTO
+
+TRF3
+
+Tribunal Regional Federal
+da 3ª Região
+Sumário
+
+§ TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Interposição de Agravo de Instrumento
+
+A interposição de recurso pretende, voluntariamente, a reforma, invalidação, esclarecimento, no todo ou em parte, de decisão judicial desfavorável a uma ou mais partes da ação.
+
+Diante dessa necessidade de proteção ao direito das partes, serão apresentados, neste módulo, os procedimentos para os advogados/procuradores recorrerem de decisão prolatada em processos eletrônicos, conforme orientação da Resolução nº 16/2012 do Tribunal Regional Federal da 5ª Região (TRF5).
+
+As funcionalidades que serão utilizadas para a interposição do recurso compreendem um facilitador de cadastro de processo recursal, no qual será permitida a escolha das partes, assuntos, documentos, características e protocolo - tudo dentro dos autos originários e no 1º Grau. Ao protocolar o agravo, o sistema o remeterá, automaticamente, para o 2º Grau, onde será enviado à distribuição e, após o protocolo, será gerada e disponibilizada no processo de origem, uma certidão contendo o número do processo de recurso, a data de protocolo e a vinculação com o processo originário.
+
+Obs.: o sistema não bloqueará, para o advogado/procurador, a opção de realizar o cadastro do recurso por meio do acesso direto ao PJe do TRF5, nem por meio do menu “Cadastro » Cadastro de Processo”.
+
+1. Acessando o cadastro de agravo
+
+Decidindo pelo reexame de determinada decisão, o advogado/procurador deverá acionar, no detalhamento do processo, o botão “Recurso para TRF”, para ter acesso ao cadastro do recurso.
+
+[Imagem com botões de "Processo", "Assuntos", "Partes", etc.]
+
+O detalhamento do processo, para fins de cadastro do recurso de agravo, poderá ocorrer, principalmente:
+
+[Informação sobre manual de interposição de agravo de instrumento]
+No TRF 5 - Tribunal Regional Federal da 5ª Região:
+
+1 - Ao acessar o “Painel do Advogado/Procurador” e detalhar o processo originário, por meio do ícone (imagem de lupa).
+
+Painel do Advogado / Procurador
+
+[Imagem de exemplo de painel com opções de busca por processo, classe judicial, órgão julgador, polo ativo, polo passivo, data de autuação e caixa de pendência]
+
+[Imagem de exemplo de dados de processo com opções de detalhamento]
+
+Observação: O procedimento de destaque mostra mensagem "Processo não localizado".
+
+Processo sem responsabilidades ou vínculos associados para esta localização.
+Processo sem autorização de responsabilidade para esta localização.
+
+2 - Ao acessar, no menu, o caminho “Consulta > Consulta de Processo” e detalhar o processo originário, por meio do ícone (imagem de lupa).
+
+Consulta Processos
+
+[Imagem de exemplo de tela de consulta de processos com opções de filtro por número do processo, exemplo de advogado, data de distribuição, código unificado]
+
+[Imagem de exemplo de lista de processos com opções de detalhamento]
+
+3 - Ao registrar ciência das intimações, por meio da aba “Intimações”, clicando no ícone (imagem de um olho).
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+**TRF 5 - Tribunal Regional Federal da 5ª Região**
+
+Painel do Advogado / Procurador
+
+Pendentes - 4
+
+Pesquisar meus expedientes: Meus expedientes
+
+| Processo | Classe Judicial | Assunto | Último Evento | CPF/CNPJ | Expediente | Polo Ativo - CPF/CNPJ | Polo Passivo - CPF/CNPJ | Nome da Parte |
+|---|---|---|---|---|---|---|---|---|
+| 0803371-64.2015.4.05.8300 | Carta de Ordem | Intimação | Juntada de Trabalho | 26.909.350/0013-50 |  | CRISTINA | FUNASA FUNDAÇÃO NACIONAL DE SAÚDE e outro | |
+
+Processo originário
+
+Origem Legenda:
+
+Todas
+
+Os processos em destaque possuem prioridade(s) associada(s)
+
+Visualizar ato do magistrado
+
+Visualizar documento
+
+Visualizar detalhes do processo
+
+Expediente com manifestação
+
+Responder ao expediente
+
+Consulta a Processos de Terceiros
+
+Número do Processo: Órgão Julgador: Data de Distribuição: Classe Judicial: Polo Ativo: Polo Passivo:
+
+Sala de Sessões: PMAP/AP/FEDERAL
+
+Foram encontrados X resultados
+
+ORDINÁRIO
+
+2. Cadastrando Agravo de Instrumento
+
+Para cadastrar um processo de recurso, clique no botão “Recurso para TRF”, conforme mostra a imagem abaixo:
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Acionado o botão, o sistema habilitará, em uma nova página, a tela “Cadastrar Processo de Recurso”:
+
+Processo Judicial Eletrônico Pesquisar
+Justiça Federal da 5ª Região
+
+Cadastrar Processo de Recurso
+
+Seção/Subseção Classe Judicial Processo Originário
+TR - 5ª Região Selecione... a 0803371-64.2015.4.05.8300
+"Campos Obrigatórios"
+
+2.1 Aba “Dados Iniciais”
+
+Na aba “Dados Iniciais”, são exibidas as seguintes informações do processo de recurso: a seção/subseção em que será protocolado e o nº do processo originário. Além disso, esta aba apresenta o campo obrigatório “Classe Judicial”, no qual deve ser selecionada a classe judicial correspondente ao recurso que será impetrado.
+
+Cadastrar Processo de Recurso
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 - Tribunal Regional Federal da 5ª Região
+
+É necessário observar que, mesmo cadastrando o processo de recurso no 1° Grau, o sistema informará, automaticamente, a seção em que este será protocolado e indicará também o processo originário que será associado, por dependência, ao recurso.
+
+(!) Atenção: o campo marcado com asterisco (*) vermelho é obrigatório, isto é, imprescindível para a realização da operação.
+
+Para iniciar o cadastro de recurso, selecione, na aba “Dados Iniciais”, a classe judicial correspondente ao recurso que será impetrado. Para isso, clique no campo “Classe Judicial”. Em seguida, selecione, dentre as classes recursais disponibilizadas pelo sistema, a opção pretendida e clique em “Inserir”.
+
+Dados Iniciais
+Cadastro de Processo
+
+Seção/Subseção Classe Judicial* Processo Originário
+TRF - 5ª Região Rec. [data] nº [número]
+
+* Campo Obrigatório
+
+MANDADO DE SEGURANÇA
+
+Ao incluir a classe judicial, o sistema habilitará as demais abas de cadastro de recurso: “Assunto”, “Partes”, “Anexar Documentos”, “Características” e “Processo”.
+
+2.2 Aba “Assunto”
+
+Preenchidos os dados iniciais, deverá ser informada, na aba “Assunto”, a matéria que será arguida no recurso em autuação.
+
+Obs.: Nesta aba, diferentemente do cadastro de processo originário, no qual são exibidos somente os assuntos específicos daquela classe judicial, o sistema habilitará todos os assuntos correspondentes à Tabela Única de Assuntos – TUA do Conselho Nacional de Justiça – CNJ. Além disso, o sistema exibirá, automaticamente, na tabela “Assuntos Associados”, os assuntos vinculados na ação originária, cabendo ao advogado/procurador mantê-los ou editá-los.
+
+[Logotipo] MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Cadastrar Processo de Recurso
+
+Assunto:
+
+[Espaço para seleção do assunto]
+
+Para indicar o assunto, o advogado/procurador deverá identificá-lo, utilizando o campo de pesquisa ou o mecanismo de paginação exibido no sistema.
+
+Para pesquisar um assunto, digite, no campo “Assunto”, o assunto pretendido e, em seguida, clique em Pesquisar. O(s) assunto(s) encontrado(s) será(ão) disponibilizado(s) na tabela “Assuntos”.
+
+Para procurar um assunto manualmente, utilizando o recurso de paginação, observe as orientações abaixo:
+
+[Rodapé]
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Dados do Processo de Recurso
+
+Assuntos abordados:
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (Concurso Público / Provas)
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (Concurso Público)
+
+DIREITO TRIBUTÁRIO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (ICMS)
+
+DIREITO TRIBUTÁRIO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (ICMS)
+
+DIREITO TRIBUTÁRIO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (ICMS)
+
+DIREITO TRIBUTÁRIO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (ICMS)
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO
+
+DIREITO CIVIL E OUTRAS MATÉRIAS DE DIREITO
+
+OUTRAS MATÉRIAS DE DIREITO
+
+OUTRAS MATÉRIAS DE DIREITO
+
+Cálculos Administrativos ou Tributários e Questões Financeiras
+
+OUTRAS MATÉRIAS DE DIREITO CIVIL (Contratos)
+
+OUTRAS MATÉRIAS DE DIREITO PÚBLICO (Servidor Público Civil)
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (Servidor Público Civil)
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO (Processo Administrativo)
+
+1ª Opção: escolha a página que deseja visualizar, clicando no número correspondente.
+
+2ª Opção: acione as setas "Avançar para próxima página" ou "Avançar para última página". O sistema também disponibilizará as opções "Retornar à página anterior ou à primeira página" ou "Retornar para a página anterior ou última página".
+
+Retornar à página anterior ou à primeira página. Avançar para a próxima página ou última página.
+
+Identificado(s) o(s) assunto(s) pretendido(s), o advogado/procurador deverá vinculá-lo(s) ao recurso, clicando sobre o ícone |< Adicionar. Em seguida, o sistema o(s) exibirá(ão) na tabela "Assuntos Associados".
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+SJ
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Dados: Assunto Área Documentos Características Processuais Cadastrar Processo de Recurso
+
+Assento
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO Servidores Públicos Civil/Sistema Remuneratório
+# Pessoas das Regiões [Cargo]
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO Servidor Público Civil/Reajustes de Remuneração
+
+DIREITO PREVIDENCIÁRIO/IRMI - Fiscalização Material IRPF/Reajustes e Situações Específicas/Reajustes/O Rinsabes
+
+O Complemento/Exceção/Valor da Exceção/
+
+DIREITO TRIBUTÁRIO/Crédito Tributário/Juros/Correção Monetária
+
+Realizada a vinculação da matéria do recurso, o sistema permitirá, apenas na fase de
+autuação, a remoção de assunto(s) vinculado(s), por meio do ícone | Remover |
+
+Dados Iniciais Assunto Área Documentos Características Processuais Cadastrar Processo de Recurso
+
+ASSUNTO(S)
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO [Ilegível]
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO [Ilegível] Setores
+Remuneração/Serviços [Ilegível]
+
+Civil Sistema Remuneração/Benefícios Fiscais
+
+SOMENTE [Ilegível] de férias (an [Ilegível] da [Ilegível])
+
+DIREITO TRABALHISTA/Imposto [Ilegível]/Imposto de Renda de Pessoa Física/Incidência
+Sobre Verbas Comportadas
+
+DIREITO DO TRABALHO/Horas Prorrogadas [Cargo]
+
+DIREITO DO TRABALHO/Horas [Ilegível]/Intervalos/Termo Constitucional
+
+DIREITO DO TRABALHO/ [Ilegível]
+
+DIREITO DO TRABALHO/ [Ilegível] Pecuniária
+
+DIREITO DO TRABALHO/ [Ilegível] do Contrato de Trabalho/Verbas Rescisórias [Ilegível]
+
+[Ilegível]
+
+DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO/ [Ilegível] Política
+
+Civil/Sistema Remuneratório & Benefícios Fiscais/Indenização/Termo Constitucional
+Foram encontrados: [Ilegível] resultados
+
+Ao acionar esta opção, o(s) assunto(s) será(ão) removido(s), voltando a compor a lista
+de assuntos exibida na tabela “Assuntos”.
+
+Obs.: para o protocolo do recurso ser realizado com sucesso, deverá existir pelo menos
+
+[Ilegível] MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+— TRF 5 — Tribunal Regional Federal da 5ª Região
+
+O(s) assunto(s) vinculado(s).
+
+2.3 Aba “Partes”
+
+Adicionado(s) o(s) assunto(s), as partes deverão ser vinculadas ou cadastradas por meio
+da aba “Partes”.
+
+Dados Pessoais Assuntos Partes Anexos Documentos Características Processo Sem Cadastrar Processo de Recurso
+Polo: Ativo Passivo
+Parte Procurador/Terceiro Vinculado à Parte Parte Procurador/Terceiro Vinculado à Autoridade Coatora
+Participante Tipo de Participação Participante Tipo de Participação
+Foram encontrados: 0 resultados
+Área de atuação: Advogado
+
+Foram encontrados: 2 resultados
+Cairás e Campos Advogados
+Participante Procurador/Terceiro Vinculado
+
+Participante Tipo de Participação
+
+Foram encontrados: 0 resultados
+
+Inicialmente, o sistema verificará se o cadastrante do recurso é advogado nos autos
+originários. Em caso positivo, exibirá seu nome vinculado à parte que ele representa no polo ativo
+do recurso.
+
+Cadastrar Processo de Recurso
+Polo: Ativo Passivo
+Parte Procurador/Terceiro Vinculado à Parte Parte Procurador/Terceiro Vinculado à Autoridade Coatora
+Participante Tipo de Participação Participante Tipo de Participação
+
+ALBUQUERQUE CARDOSO IMPETRANTE
+Rocha - ADVOGADO
+
+Foram encontrados: 0 resultados
+
+Foram encontrados: 2 resultados
+
+Outros Participantes
+Participante Procurador/Terceiro Vinculado
+
+Participante Tipo de Participação
+
+Foram encontrados: 2 resultados
+
+Partes do Processo Originário
+
+No entanto, ao identificar que o autor do recurso é um procurador, o sistema exibirá,
+automaticamente, a procuradoria que ele representa no polo ativo do recurso.
+
+PJE MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Cadastrar Processo de Recurso
+
+no botão. Em seguida, o sistema habilitará a tela "Partes do Processo Originário", exibindo as demais partes litigantes nos autos principais.
+
+[Imagem da tela]
+
+Para vincular uma determinada parte do processo originário ao agravo de instrumento, identifique-a na tabela "Partes do Processo Originário". Em seguida, na coluna "Polo no Processo..."
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Ao selecionar um processo de recurso, selecione, dentre as opções "Ativo" ou "Passivo", o polo em que a parte deverá ser vinculada.
+
+Partes do Processo Originário:
+
+Polo Ativo no Processo Originário
+
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+Foram encontrados: 0 resultados
+
+Polo Passivo no Processo Originário
+
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE PERNAMBUCO
+REITORIA DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE PERNAMBUCO
+CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS - CRECI
+
+Foram encontrados: 3 resultados
+
+Outros Interessados:
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+MINISTÉRIO PÚBLICO FEDERAL - CUSTOS LEGIS
+CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS - AMICUS CURIAE
+
+Foram encontrados: 2 resultados
+Obs.: As partes que não estiverem com o polo indicado no Processo de Recurso não serão incluídas.
+
+Incluir
+
+Caso exista a necessidade de inclusão de outros interessados, identifique, na tabela "Outros Interessados", a parte que será vinculada nesta condição e selecione o polo correspondente.
+
+Partes do Processo Originário:
+
+Polo Ativo no Processo Originário
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+
+Foram encontrados: 0 resultados
+
+Polo Passivo no Processo Originário
+
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE PERNAMBUCO - IFPE
+REITORIA DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE PERNAMBUCO
+CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS
+
+Foram encontrados: 3 resultados
+
+Outros Interessados:
+Nome da Parte | Tipo da Parte | Polo no Processo de Recurso
+MINISTÉRIO PÚBLICO FEDERAL - CUSTOS LEGIS
+CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS - AMICUS CURIAE - Passivo
+
+Outros Interessados
+
+Obs.: As partes que não estiverem com o polo indicado no Processo de Recurso não serão incluídas.
+
+Incluir
+
+Obs.: Entendendo cabível, o advogado/procurador poderá vincular outros participantes em um dos polos da relação processual, devendo, para isto, selecionar, na coluna "Polo no Processo de Recurso", uma das opções "Ativo" ou "Passivo" da parte que deverá integrar o cadastro de partes.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+do recurso.
+
+Após a seleção de todas as partes que integrarão o recurso e a indicação do tipo de participação de cada parte, clique em "Incluir". As partes serão alocadas nos respectivos polos, conforme a indicação recebida e, até o protocolo desta ação, poderão ser realizadas modificações neste cadastro.
+
+Dados Iniciais » Assunto » Partes » Anexar Documentos
+
+Partes do Processo
+
+Participante | Tipo de Participação
+
+ALBUQUERQUE CARDOSO IMPETRANTE ADVOCACIA GERAL DA UNIÃO
+
+Partes do Processo Originário
+
+Para cadastrar partes que ainda não integram a autuação dos autos eletrônicos originários, acesse o “Manual do Advogado/Procurador — Módulo 1” no item 2.3 e siga os procedimentos recomendados.
+
+2.4 Aba “Anexar Documentos”
+
+Informados os “Dados Iniciais”, o “Assunto” e as “Partes” do recurso, o advogado/procurador deverá criar, na aba “Anexar Petições/Documentos”, a peça recursal e deverá também vincular os documentos (sempre em PDF), conforme determinação legal.
+
+Para confeccionar a petição inicial, o advogado/procurador deverá utilizar o editor de texto do sistema, disponibilizado nesta aba.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+**SJ**
+
+**TRF 5 - Tribunal Regional Federal da 5ª Região**
+
+**Processo Judicial Eletrônico**
+
+**Justiça Federal da 5ª Região**
+
+| Cadastrar Processo de Recurso
+Dados Iniciais = Assunto = Partes = Anexar Documento = Características | Processo
+Cadastro do documento
+Tipo de documento
+Descrição* Tipo de documento Selecione...
+
+Petição Inicial
+
+Documento sigiloso? Documentos do processo originário
+
+Marcar:
+Sim Não Identificador Data/Hora
+
+Editor*
+12/01/2016
+
+Tipo de fonte Tamanho A A A A B I U S x² x³ Ω #058300.1851535.16-55 Certidão de Intimação
+DJE
+07/01/2016 15:37 31 - Certidão de Despacho - Retirado
+
+09-59
+
+4058300.1626209 Certidão de Intimação Certidão de Intimação
+
+4058300.1626079 Movimento Expediente
+
+4085300.1622205 Despacho Despacho
+
+4085300.1620586 Impugnação à Contestação Documento de Comprovação
+
+4055300.1620585 Impugnação à Contestação Import-Anexo Petição
+
+4058300.1587850 Certidão de Intimação Certidão de Intimação
+
+08/01/2016 16-37 Intimação Expediente
+
+4058300.1567981 TEMPESTIVIDADE CONTESTAÇÃO Certidão
+
+Foram encontrados: 25 resultados.
+
+Incluir anexos.
+
+Gravar Remover Assinar Digitalmente
+
+Último processo acessado 0451300 25/01/2016 16:21:13 Site
+
+(!) Atenção: os campos marcados com asterisco* vermelho são obrigatórios, isto é,
+imprescindíveis para a realização da operação.
+Informe, no campo indicado, o nome do recurso que está sendo autuado.
+
+Descrição*
+
+O campo “Tipo de Documento” será preenchido automaticamente: “Petição Inicial”.
+
+Tipo de Documento*
+Petição Inicial
+
+Obs.: O documento do tipo “Petição Inicial” é o primeiro documento do processo de
+recurso, desta forma, somente após a inclusão deste é que o advogado poderá incluir outros tipos de
+petições.
+
+Para solicitar sigilo da petição de recurso, marque a indicação do campo correspondente,
+
+conforme mostra a figura:
+
+PJÉ MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Documento sigiloso?
+( ) Sim ( ) Não
+
+Essa marcação fará com que, ao protocolar o recurso, a “Petição Inicial” fique com a situação de "Sigilosa", cabendo somente ao Magistrado decidir pela manutenção ou pela remoção do status de sigilo da petição.
+
+No editor de texto, crie a petição inicial de recurso. O sistema permitirá copiar e colar de um editor específico (BrOffice, Word) para o editor do sistema.
+
+Obs.2: Ao confeccionar o teor do documento, o sistema salvará automaticamente, a cada 30 segundos (em média), o conteúdo digitado no editor.
+
+Obs.3: Recomenda-se, apenas no caso de copiar documentos do Word para o editor de texto do sistema, a utilização da ferramenta “Colar (copiado do Word)”.
+
+[imagem da ferramenta "Colar (copiado do WORD)"]
+
+* Utilizando a ferramenta “Colar (copiado do Word)”:
+
+[imagem do editor de texto com ferramentas]
+
+1º Passo: selecione o texto no Word.
+
+2º Passo: clique na ferramenta indicada: [imagem da ferramenta "Colar (copiado do WORD)"]
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+O sistema disponibilizará uma nova tela, na qual o texto deverá ser colado.
+
+Colar (copiado do WORD)
+
+Use CTRL+V para colar o texto na janela.
+
+Para fechar a caixa de texto, clique em [ícone de fechar].
+
+O editor disponibilizará também os recursos "Tela Inteira", "Salvar Como", "Importar" e "Restaurar Rascunho".
+
+Editor
+
+[Barra de formatação de texto com ícones de Bl U a & 3 33 Hi Tpodetome ~ Ttamanno 8 =~ 8) KO i ey 8S
+= j= i= “oA ~
+
+—GVin=x>x OF —- Gv -- |G Jd i)
+
+Bthi G]
+
+Por meio do ícone [ícone de tela inteira] (Tela Inteira), é possível visualizar o editor em tela inteira. Para retornar à tela de origem, basta clicar novamente sobre o ícone.
+
+O ícone [ícone de salvar como] (Salvar como) permite salvar o documento elaborado no editor em formato HTML. Esta ação permitirá que o servidor crie modelos de documentos em seu computador, tendo em vista que estes poderão ser utilizados em momento posterior.
+
+O documento salvo em HTML no computador do usuário poderá ser inserido no editor.
+[Imagem com a legenda] MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+de texto, por meio do ícone (| Importar...).
+
+O ícone ** (Restaurar Rascunho) permite a recuperação do teor do documento salvo
+como rascunho. Ao acioná-lo, o sistema exibirá a tela “Rascunho”, onde serão exibidas as colunas
+“Usuário”, “Tarefa”, “Data”, “Rascunho” e “Ações”.
+
+Rascunhos
+
+Usuário Tarefa Data Rascunho Ações
+
+Ivan Rocha 07/11/2013 13:53:09 Rascunho
+
+Para visualizar o teor completo do rascunho, clique em . O sistema habilitará o teor
+salvo em uma nova tela denominada “Visualizar Rascunho”.
+
+Para descartar o rascunho salvo, clique em . O sistema exibirá uma mensagem de
+confirmação da remoção.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Para confirmar a remoção, clique em "OK".
+Deseja remover este registro?
+
+Para anular a remoção, clique em "Cancelar".
+
+OK | Cancelar
+
+Para utilizar o teor do rascunho, clique em OK. O conteúdo do rascunho será alocado no editor.
+
+Uma vez inserido e gravado o teor da petição, ele poderá ser editado até que a assinatura do documento seja realizada.
+
+Os documentos do processo originário que forem configurados como obrigatórios, serão incluídos automaticamente no campo dos anexos, independente de serem selecionados e sem a possibilidade de desabilitá-los, juntamente com suas respectivas certidões de intimações.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Incluir Anexos
+
+Arquivo
+
+Adicionar Limpar
+
+Petição inicial - 2ª jornada - em pdf - Nº Identificador Descrição* Tipo de documento* Documento sigiloso?
+4058300.1101915 Petição inicial - 2ª jornada - em pdf - anexo Petição inicial Não
+anexo
+Gravar Remover Assinar Digitalmente
+
+Para vincular arquivos em PDF que ainda não estejam vinculados ao processo
+originário, e que não sejam obrigatórios, clique no agrupador “Incluir Anexos”.
+
+O sistema abrirá a interface para inclusão de arquivos no formato PDF.
+
+Deverá ser criada, conforme descrito acima, uma petição inicial de recurso no editor de texto.
+
+Obs.: Só será permitida a inclusão de documentos em formato PDF, com tamanho máximo de 2MB e resolução recomendada de 200 dpi.
+
+Permitido apenas documento do tipo .pdf.
+
+Tamanho máximo 2MB
+
+Para imagem escaneada, a resolução recomendada é de 200 dpi.
+Para visualizar o documento, clique sobre o seu nome.
+
+Adicionar
+Clique no botão para selecionar o arquivo que deseja incluir:
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Enviar arquivo
+
+Organizar * Nova pasta
+
+Favoritos » Bibliotecas Consulta Prov. 15_2014
+Área de Trabalho Pasta do Sistema
+Locais Adobe Acrobat Document
+PROVIMENTO 15 2014 CJF-1)
+Downloads Computador
+Adobe Acrobat Document
+
+Bibliotecas Pasta do Sistema
+Documentos Adobe Reader X1
+Atalho 1,84 KB
+Imagens ErOffice.org 3.2
+Atalho 0 bytes
+Músicas Subversion
+Atalho 1,01 KB
+Vídeos
+
+Computador Sistema(C:)
+Atalho
+
+Nome: Todos os arquivos
+
+Os arquivos poderão ser selecionados de uma só vez, com limite máximo de 40 documentos.
+
+Para incluir o anexo na lista de documentos, clique no botão Abrir. Os campos solicitados deverão ser preenchidos.
+
+(!) Atenção: os campos marcados com asterisco vermelho (*) são obrigatórios, isto é, imprescindíveis para a realização da ação pretendida.
+
+O campo Descrição será preenchido automaticamente com o nome do documento que estiver sendo incluído, dando a possibilidade de editar. Esse nome facilitará a sua localização na consulta de documentos do processo.
+
+Tipo de documento Documento sigiloso?
+
+Cartão do SUS.pdf N° identificador
+Documento de Comprovação 5785KiB
+
+No campo Tipo de Documento, selecione a opção desejada.
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Tipo de documento *
+Selecione
+
+Documento de Comprovação
+Documento de Identificação
+Laudo Pericial
+
+No campo "Documento Sigiloso?", o usuário tornará sigiloso o documento que estiver sendo incluído, submetendo-o automaticamente ao deferimento do magistrado.
+
+Para realizar essa solicitação, marque a opção indicada:
+
+Documento sigiloso?
+
+Sim Não
+
+O documento que receber essa marcação será visualizado pelo servidor que o criou, pelo diretor de secretaria (que também poderá atribuir visibilidade do documento a outros servidores) e pelo magistrado, cabendo apenas a este a análise da solicitação e a decisão acerca da concessão ou não do sigilo.
+
+Obs. 1: os demais servidores só poderão visualizar o documento caso tenham recebido permissão específica.
+Obs. 2: na tentativa de incluir arquivos em PDF sem uma petição criada previamente, o documento anexado apresentará uma falha, e os campos de Descrição e Editor receberão um destaque de "Campo Obrigatório".
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+= TRF 5ª Região — Tribunal Regional Federal da 5ª Região
+
+Cadastro do documento
+* Campos Obrigatórios
+
+Tipo de documento
+Descrição* | Campo obrigatório Tipo de documento* Selecione...
+Documento sigiloso? Número do processo Origem
+Sim Não Identificador Descrição Tipo de documento
+
+Resultado da pesquisa:
+1-8
+
+#050000.1208877 A) cert Certidão de Intimação
+#050000.1208878 A) cert Certidão de Intimação
+#050000.1208879 A) cert Certidão de Intimação
+#050000.1208873 A) cert Certidão de Intimação
+#050000.1208872 A) cert Certidão de Intimação
+#050000.1208871 A) cert Certidão de Intimação
+#050000.1208888 A) cert Certidão de Intimação
+#050000.1208889 A) cert Certidão de Intimação
+#050000.1208886 A) cert Certidão de Intimação
+
+Foram encontrados: 9 resultados
+* Campos Obrigatórios
+Incluir anexo
+Arquivo Limpar
+Adicionar Limpar
+Petição Inicial Descrição Petição Inicial Documento sigiloso?
+
+Nº Identificador Descrição* Tipo de documento*
+778,5 KiB - Cartão do SUS Selecione... Sim Não
+
+Com o carregamento efetuado corretamente, será exibido o ícone. O sistema realizará o cadastro do arquivo anexo e exibirá a mensagem de sucesso:
+
+Arquivo
+Adicionar Limpar
+
+Cartão do SUS.pdf Descrição* Tipo de documento* Documento sigiloso?
+778,5 KiB Cartão do SUS Documento de Comprovação Sim Não
+
+Havendo inclusão de mais de um arquivo, estes poderão ser ordenados de maneira escolhida pelo usuário, utilizando os ícones.
+
+Arquivo
+Adicionar
+
+1 PROVIMENTO 15 2014_CJF-1.pdf Descrição* Tipo de documento*
+1,742 MB PROVIMENTO 15 2014 CJF Documento de Comprovação Sim Não
+
+Consulta Prov. 15.2014 Corregedoria do CJF Descrição* Tipo de documento*
+Consulta Prov. 15.2014 Corregedoria do CJF.pdf Documento de Comprovação Sim Não
+
+O sistema permitirá, ainda, a remoção desses arquivos.
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Para excluir o arquivo incluído, clique no ícone da lixeira.
+
+PROVIMENTO 15/2074 CUF-1_pat Tipo de documento: Documento suporte JZ
+1707 Hun PROVIMENTO 15 Juris CF. Documento de Correção cm «2S Da
+
+O sistema alerta a ação com a mensagem abaixo:
+
+Deseja realmente excluir o(s) registro(s)?
+
+Cancelar
+
+Para prosseguir com a exclusão clique em Confirmar ou clique em Cancelar para cancelar.
+
+Com a confirmação de exclusão do documento, será exibida a mensagem:
+
+Registro(s) excluído(s) com sucesso.
+
+Outra forma de excluir arquivo, desta vez removendo todos os incluídos, é clicando no botão Limpar. O sistema alerta com a mensagem abaixo:
+
+Deseja realmente excluir o(s) registro(s)?
+
+Cancelar
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Cancelar
+
+Para prosseguir com a exclusão, clique em [Ícone] ou clique em 'Cancelar' para cancelar.
+
+Obs.: o(s) documento(s) serão excluídos, entretanto, os documentos obrigatórios do processo originário, que foram incluídos automaticamente, não serão suprimidos do agrupador "Incluir Anexos".
+
+Para vincular documentos que compõem o acervo de documentos dos autos originários, observe a tabela “Documentos do Processo Originário”, disponibilizada ao lado do editor de texto.
+
+Cadastro do documento
+
+Tipo de documento
+Descrição* Tipo de documento* Selecione...
+
+Petição Inicial
+Documento sigiloso?
+
+Documentos do processo originário
+
+[Ícone] Identificador Data/Hora Documento Tipo do documento
+
+Tipo de fonte + Tamanho
+
+4050000.1206877 13:50 Certidão de intimação Certidão de intimação
+4050000.1206876 Certidão de intimação Certidão de intimação
+4050000.1206874 Certidão de intimação Certidão de intimação
+4050000.1206873 Certidão de intimação Certidão de intimação
+4050000.1206872 Certidão de intimação Certidão de intimação
+4050000.1206871 Certidão de intimação Certidão de intimação
+4050000.1206869 Certidão de intimação Certidão de intimação
+4050000.1206868 Certidão de intimação Certidão de intimação
+4050000.1206867 Certidão de intimação Certidão de intimação
+4050000.1206866 Certidão de intimação Certidão de intimação
+
+Foram encontrados: 56 resultados
+
+Campos Obrigatórios
+Incluir anexos
+
+Gravar Remover Assinar Digitalmente
+
+Nesta tabela, serão exibidos todos os documentos do processo originário. Nela, o advogado/procurador deverá localizar os documentos e peças processuais, por meio das ferramentas de pesquisa: “Tipo de Documento” e “Paginação”.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Tipo de Documento
+
+Pesquisar pelos tipos de documentos existentes nos autos originários.
+
+Selecione...
+Documentos do Processo Originário
+
+Marcar!
+
+Desmarcar! Identificador Data/Hora Documento Tipo do Documento
+
+A058300.258493 19/12/2013 09:41:41 Documento de Comprovação Documento de Comprovação
+
+A058300.258492 24/10/2013 14:33:51 Teste Ato Ordinatório Ato Ordinatório
+
+A058300.258168 13/11/2013 14:56:56 Certidão de Intimação Certidão de Intimação
+
+A058300.258167 13/11/2013 14:56:56 Certidão de Intimação Certidão de Intimação
+
+A058300.249905 13/11/2013 14:30:50 Dec. Il Documento de Comprovação
+
+A058300.249892 13/11/2013 14:30:36 Doc. Documento de Comprovação
+
+A058300.244514 07/11/2013 14:44:20 Informações autoridade impetrada - Documento de Identificação
+
+A058300.244514 07/11/2013 14:44:20 Informações autoridade impetrada - Documento de Identificação
+
+A058300.244509 07/11/2013 14:44:20 Informações autoridade impetrada - Documento de Identificação
+
+A058300.244495 07/11/2013 14:44:20 Informações autoridade impetrada Certidão
+
+Foram encontrados: 34 resultados
+
+Pesquisar página a página os documentos existentes nos autos originários.
+
+Incluir
+
+No campo “Tipo de Documento”, o sistema exibirá apenas os tipos de documentos existentes nos autos originários. Informe o tipo pretendido. Em seguida, o sistema pesquisará, automaticamente, todos os documentos ou peças correspondentes ao tipo selecionado e os exibirá na tabela “Documentos do Processo Originário”.
+
+Tipo de Documento
+
+Preencher requisito
+
+Selecionar Sigitm?
+
+Edição Rascunho abetees ANE tcl
+BrU ® Potpitetete +Tema "- AREER B' ee aa ele de imbaaet dc
+=E ee 4 “A-B-a ae Castile sin bette
+tape chp leterge fe eres ee bee hs
+—2 se fed s- Oeil &
+ie el —
+peta, chp linia dey Letters Se inten dc
+Ge
+A Seemethe de itera So Letters Oe bntesvetiks
+A mandestagda score lays Fees te
+AEE Ea sia = ° > carecer aiseente tecreco cao: «9 Gocments Ga Compepagey do
+sicitaietin Haat Th 7015 = és
+ACE 21 2SS rate » Tey cathe Cesepaba
+x: 1 a rs se a ‘ P Pt a
+an 154 ‘Doh Lue Bs Ueaths peretad ania aie
+vial dani Pa a | = —
+ee 158 oa aa i oe ace 7 ec
+elas aieie Halabi ea = =
+LDR “— epee es EuSitietct
+4 » oF Foca enconivados. £3 resultados
+a. * Campes Cibmgatincrs =
+F om '
+ireieed ria. r
+
+Gravel Rarer rosa Dapiaiments
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Por meio da paginação, é possível localizar um determinado documento ou peça
+processual manualmente. Para utilizar a paginação na localização de documentos, observe as
+orientações abaixo:
+
+* 1ª Opção: escolha a página que deseja visualizar, clicando no número
+correspondente.
+
+* 2ª Opção: acione as setas “Avançar para a próxima página” ou “Avançar para a última
+página”. O sistema também disponibilizará as opções “Retornar à página anterior ou à primeira
+página” ou “Avançar para a próxima página ou à última página”.
+
+Retornar à página anterior ou à primeira página. Avançar para a próxima página ou à última página.
+
+Localizado o documento que deverá acompanhar o recurso, o advogado/procurador
+poderá visualizar o conteúdo clicando nos ícones:
+
+Para incluir os documentos, marque o *check box* correspondente, conforme a imagem a seguir:
+
+Decisão
+
+Documentos do processo originário
+
+| Identificador | Data/Hora | Tipo do documento |
+|---|---|---|
+| 4050000.1053033 |  | Decisão |
+
+Foram encontrados: 1 resultado
+
+Obs.: o sistema converterá, durante o procedimento de inclusão, os documentos do
+processo originário selecionados (HTML) em PDF.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+= TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Tipo de documento
+Selecione... >|
+
+Documentos do processo originário
+
+Marcar/
+Desmarcar Identificador Data/Hora Documento Tipo do documento
+
+[ ] 4058300.206447 29/08/2013 11:00 Despacho Despacho
+[ ] 4058300.177051 24/07/2013 14:23 Recurso de Apelação pelos Autores Apelação
+[ ] 4058300.164758 24/07/2013 11:22 Intimação Expediente
+[ ] 4058300.163454 23/07/2013 16:02 Sentença Sentença
+[ ] 4058300.136220 15/07/2013 10:34 Certidão Certidão
+[ ] 4058300.83464 09/05/2013 10:17 Citação Expediente
+> [ ] 4058300.73715 02/05/2013 15:22 Despacho Despacho
+> [ ] 4058300.68220 29/04/2013 17:57 Ofício-Circular 207-91 da Funasa Documento de Comprovação
+[ ] 4058300.66219 29/04/2013 14:59 Fichas Financeiras-Leonidas Documento de Comprovação
+[ ] 4058300.66216 29/04/2013 14:59 Documento CLI-Leonidas Documento de Comprovação
+
+Foram encontrados: 56 resultados
+
+Para a seleção dos documentos que acompanham o recurso, o sistema disponibilizará (como facilitador), na coluna “Marcar/Desmarcar”, as seguintes opções: “Marcar Todos”, “Marcar Todos da Página”.
+
+Documentos do processo originário
+
+Marcar/
+Desmarcar Documento Tipo do documento
+
+* Marcar todos
+* Marcar todos da página
+[ ] 4058300.206447 29/08/2013 11:00 Despacho Despacho
+[ ] 4058300.177051 24/07/2013 14:23 Recurso de Apelação pelos Autores Apelação
+[ ] 4058300.164758 24/07/2013 11:22 Intimação Expediente
+[ ] 4058300.163454 23/07/2013 16:02 Sentença Sentença
+[ ] 4058300.136220 15/07/2013 10:34 Certidão Certidão
+[ ] 4058300.83464 09/05/2013 10:17 Citação Expediente
+[ ] 4058300.73715 02/05/2013 15:22 Despacho Despacho
+[ ] 4058300.68220 29/04/2013 17:57 Ofício-Circular 207-91 da Funasa Documento de Comprovação
+[ ] 4058300.66219 29/04/2013 14:59 Fichas Financeiras-Leonidas Documento de Comprovação
+[ ] 4058300.66216 29/04/2013 14:59 Documento CLI-Leonidas Documento de Comprovação
+
+Foram encontrados: 56 resultados
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Obs.5: Os documentos do processo originário serão associados à petição inicial de recurso no formato PDF e serão disponibilizados no agrupador “Incluir Anexos” na tabela ‘Documentos’, com as suas respectivas certidões de intimação.
+
+[Imagem da tela de sistema com campos de inclusão de anexos]
+
+Atenção: os campos marcados com asterisco (*) vermelho são campos obrigatórios, imprescindíveis para a realização de qualquer operação.
+
+Incluída a petição inicial e seus anexos, o sistema permitirá a remoção ou a assinatura de todos os documentos dispostos.
+
+Obs.19: caso o advogado/procurador crie sua petição inicial de recurso e não vincule documentos em PDF, o sistema exibirá o seguinte alerta:
+
+ATENÇÃO: Após a assinatura deste documento não será permitida a inclusão de anexo(s) em PDF(s). Deseja continuar?
+
+[Botões Cancelar e Continuar]
+
+Para continuar o cadastro do documento, mesmo sem a vinculação de PDF, clique em [Continuar].
+
+Para cancelar o cadastro e poder vincular arquivos em PDF, clique em [Cancelar].
+
+Para salvar todas as informações registradas nesta aba, clique no botão Gravar.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Para apagar todos os arquivos associados (petição inicial e arquivos em PDF), clique no botão "Remover". Botão acionado, será exibida a seguinte mensagem:
+
+Informação: Para excluir todos os documentos associados, clique em "Sim". O sistema excluirá todos os dados/documentos desta tela. Deseja continuar?
+
+Sim Não
+
+Para cancelar a exclusão, clique em "Não".
+
+Para realizar a assinatura de todos os documentos associados, clique no botão "Assinar Digitalmente". O sistema solicitará a senha PIN, que deverá ser informada para que a assinatura seja efetivada.
+
+Após a assinatura da petição inicial, na aba de anexar documentos, a seguinte informação será apresentada:
+
+Dados Iniciais Assunto Partes Anexar Documentos Características Processo
+
+Somente a petição inicial poderá ser criada até o protocolo da ação. Caso seja necessária alguma alteração após sua assinatura, favor excluí-la na aba "Processo" para criar uma nova inicial.
+
+2.5 Aba “Características”
+
+Na aba “Características”, o advogado/procurador deverá informar se o recurso possui indicação de "Segredo de Justiça", "Justiça Gratuita", "Pedido de Liminar" e/ou "Antecipação de Tutela". Além disso, deverá informar se existe alguma "Prioridade de Processo" (idoso(a) ou doença terminal).
+
+Atenção: os campos marcados com asterisco (*) vermelho são obrigatórios, isto é, imprescindíveis para a realização da operação.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+= TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Dados Iniciais Auto Partes Anexar Documentos Características Processo
+
+Roteiro: SATISFAZER OS REQUISITOS
+
+Segredo de Justiça? Gratuita? Pedido de Liminar/Antecipação de Tutela?
+
+Sim Não Sim Não Sim Não
+
+A. Campos Obrigatórios
+
+Gerenciar
+
+Prioridade de Tramitação *
+
+Incluir
+
+Tipos TRF5/CNJ/Outros
+
+Prioridade do Processo
+
+Foram encontrados 0 resultados
+
+A. Campos Orgânicos
+
+Para registrar a existência de alguma das características supramencionadas, marque “Sim” para as características disponibilizadas, informe o valor da causa e clique em “Salvar”.
+
+Obs.: os pedidos registrados nesta aba farão com que, ao ser protocolado e distribuído, o recurso receba um destaque no acervo de processos da Vara, visível apenas para os servidores da Justiça.
+
+Para incluir uma prioridade, selecione o tipo desejado e clique em Incluir.
+
+Excluir Editar
+
+Selecionar
+
+Salvar
+
+A prioridade incluída na petição inicial será elencada na tabela “Prioridade em Processo”, localizada abaixo da tabela “Adicionar Prioridades ao Processo”.
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Para remover a prioridade vinculada, clique no ícone Remover Registro.
+
+O sistema solicitará a confirmação da remoção do registro.
+
+Para confirmar, clique no botão Confirmar. Para cancelar, clique no botão Cancelar.
+
+Uma vez excluída uma prioridade, ela poderá ser incluída novamente até que se protocole o recurso (os dados lançados durante a autuação do recurso poderão ser alterados até que ele seja protocolado).
+
+2.6. Aba “Processo”
+
+Na aba “Processo”, serão elencadas todas as informações e associações realizadas durante o peticionamento.
+
+Através do botão Impressão de Lista de Documentos, o sistema habilitará uma lista com todos os documentos contidos no processo.
+
+Documentos do Processo
+
+Identificador Descrição Anexado em Tamanho
+Documentos de Identidade de Rômulo 14/10/13 08:19 13,79 Kb
+Teste 14/10/13 08:18 0 Kb
+
+Foram encontrados: 2 resultados
+
+Para imprimir a lista, clique no botão Imprimir.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Para visualizar o processo integralmente, acione o recurso do paginador por meio do botão "Paginador". Este recurso será exibido em uma nova página e elencará, na tabela “Documentos”, todos os documentos criados em HTML, ou seja, produzidos no editor de texto do sistema.
+
+[Tabela de documentos e anexos, conforme imagem]
+
+Os documentos poderão ser paginados por meio das setas “avançar”, representadas pelo [ícone da seta].
+
+Obs.: As setas do teclado também poderão ser utilizadas para alterar a visualização do documento.
+
+Na tabela “Anexos/Documentos Associados”, serão exibidos os documentos em PDF anexados ao processo. Para selecionar um PDF, clique sobre o ícone [ícone de PDF] "Documento em PDF". O sistema exibirá o documento selecionado em uma nova janela.
+
+[Título do Manual] MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Obs. 2: os arquivos em PDF somente serão disponibilizados no momento em que a petição à qual estão associados estiver sendo visualizada na tabela “Documentos” do paginador.
+
+Obs. 3: os documentos que integram cada processo, estejam em HTML ou PDF, ao serem assinados, receberão um código de validação, que os tornará únicos. Este código poderá ser consultado através do link: http://pje.jfxx.jus.br/pje/Processo/ConsultaDocumento/listView, disponível em cada documento.
+
+Cite-se.
+
+Recife, 10 de novembro de 2010.
+
+Assinado eletronicamente. A Certificação Digital pertence a: 10111017061328700000000000074
+
+Assinatura do usuário
+http://pje.jfpe.jus.br/pje/Processo/ConsultaDocumento/listView.seam
+
+Imprimir
+
+Nesta aba, serão exibidas também as seguintes informações do processo: assuntos, partes, outros interessados, documentos vinculados, características e prioridades (caso haja).
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Obs.4: O sistema permitirá a alteração dos dados lançados durante a autuação da nova ação (inclusive documentos), bastando, para isso, retornar a cada aba em específico e realizar os procedimentos de inclusão ou edição dos dados. Estas alterações poderão ser efetuadas em qualquer momento, até que o processo seja protocolado.
+
+Na tabela "Documentos", o sistema habilitará ícones para a visualização, assinatura e/ou validação de assinatura dos documentos vinculados à autuação.
+
+Visualizar HTML Validar Assinatura Digital
+Visualizar PDF Excluir
+
+Caso os documentos ainda não estejam assinados, será possível assiná-los digitalmente e editar a petição inicial, por meio dos respectivos ícones indicados abaixo:
+
+Assinar Documento Editar
+
+Os documentos em HTML, criados no editor do sistema, deverão ser assinados no momento de sua inclusão. Caso isto não ocorra, ou seja, caso os documentos estejam apenas gravados, o advogado/procurador poderá assinar por meio da aba "Processo" na tabela "Documentos".
+
+Para assinar uma petição ou arquivo em PDF, clique no ícone Assinar Documento. O sistema disponibilizará a página para assinatura:
+
+Informações:
+Documento
+Assinatura Digital
+Usuário Data da Assinatura Validação
+
+Foram encontrados: 0 resultados.
+
+Assinar Digitalmente/Protocolar
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+= TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Nesta página, clique no botão Assinar Digitalmente/Protocolar. O sistema irá solicitar a senha PIN, informe-a para que a assinatura seja efetivada.
+
+Enquanto a petição inicial não for assinada, será possível realizar alterações em seu teor.
+
+Para tanto, clique no ícone "Editar" e faça as alterações necessárias.
+
+Enquanto o processo não for protocolado, será possível excluir a petição inicial e os arquivos em PDF. Para tanto, clique no ícone "Excluir". O sistema solicitará a confirmação:
+
+"Deseja realmente excluir o documento?"
+
+Cancelar
+
+Após a verificação de toda a autuação do recurso, inclusive da assinatura dos documentos, o processo deverá ser protocolado, por meio do botão "Protocolar Processo". Botão acionado:
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+V_ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Quando o sistema concluir o cadastro, exibirá, em uma nova janela, a mensagem de confirmação “Processo Cadastrado com Sucesso”.
+
+O envio eletrônico será iniciado e uma certidão de protocolo será juntada aos detalhes do processo originário.
+
+Mensagem:
+Processo Cadastrado com Sucesso. Envio de recurso ao TRF em andamento. A certidão de envio encontra-se anexada ao processo originário.
+
+Na parte superior direita do processo originário, o sistema informará quanto ao andamento do envio do recurso ao TRF e, na grade dos documentos, constará a Certidão de Interposição do Recurso.
+
+Dados do Processo
+
+Número Processo Data de Autuação Data de Distribuição Classe Judicial Órgão Julgador Valor da Causa
+
+0803371-64.2015.4.05.8300T JRMS2015 2aNS205 PROCEDIMENTO ORDINÁRIO 21ª VARA FEDERAL FS 95.000,00
+
+Prioridade Usuário Cadastro
+
+Moso(a)
+
+Lembretes do Processo 2
+Processo Assuntos Partes Documentos do Processo Anexar Petições/Documentos Audiência Expedientes(25) Características do Processo Perícia Associados Acesso de Terceiros Anexos Físicos Retificações
+
+Impressão de Lista de Documentos Download de documentos em PDF Paginador Recurso para TRF Envio de recurso ao TRF em andamento.
+
+Envio de recurso ao TRF em andamento.
+Documentos
+Identificador Assinatura Documento Tipo de Documento Anexos Certidão
+4058300.1651902 PONG 13:48 Certidão de Recurso Certidão de Interposição
+4058300.1647078 220116 05:38 Certidão de Intimação Certidão de Intimação
+4058300.1647077 22NH116 05:38 Certidão de Intimação Certidão de Intimação
+4058300.1637328 190116 09:04 Ciência da União Cota
+4058300.1626301 15116 10:00 Certidão de Intimação Certidão de Intimação
+4058300.1625967 TSANG 08:14 Certidão de Intimação Certidão de Intimação
+4058300.1619661 120116 18:18 Intimação Expediente
+4058300.1619585 12016 18:18 Sentença Sentença
+4058300.1565791 061215 09:35 Impugnação à contestação da União em pdf - anexo Petição
+4058300.1585793 051215 05:35 Impugnação à contestação da União em pdf Documentos de Comprovação
+4058300.1560359 07245 00:00 Certidão de Intimação Certidão de Intimação
+4058300.1542923 O25 00:00 Certidão de Intimação Certidão de Intimação
+4058300.1542922 O1N245 00:00 Certidão de Intimação Certidão de Intimação
+4058300.1533788 JTS 08:12 Certidão de Intimação Certidão de Intimação
+4058300.1531529 261115 14:48 Intimação Expediente
+4058300.1531526 261115 14:48 Despacho Despacho
+Foram encontrados: 63 resultados
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+JS
+TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Selecionando o ícone da coluna Anexos, o usuário terá acesso a uma certidão onde consta o tipo de recurso protocolado, a data e a hora. Integra também este documento a quantidade, a descrição e o identificador dos documentos que foram anexados, conforme imagem a seguir:
+
+CERTIDÃO
+
+CERTIFICA-SE que foi interposto AGRAVO DE INSTRUMENTO, referente ao processo originário de nº 0803371-64.2015.4.05.8300, enviado em 23/01/2016.
+
+CERTIFICA-SE, ainda, que foram incluídos os documentos:
+
+Nº Identificador | Descrição | Tipo do documento
+4058300.162596/7 Certidão de Intimação Certidão de Intimação
+4058300.1647078 Certidão de Intimação Certidão de Intimação
+4058300.1647077 Certidão de Intimação Certidão de Intimação
+4058300.16263501 Certidão de Intimação
+4058300.1619585 Inicial
+4058300.1101915 Inicial - 2ª jornada - em pdf - anexo Inicial
+
+1 - Esta Certidão é válida para todos os efeitos legais, havendo sido expedida através do Sistema Processo Judicial Eletrônico - PJe.
+
+2 - A autenticidade desta Certidão poderá ser confirmada no endereço https://pje.tjpe.jus.br/pjesuporte/Processo/ConsultaDocumento/listView.seam, através do código de autenticação nº 16012513485845900000000000000.
+
+3 - Esta Certidão foi emitida em 25/01/2016 13:48 - Seção Judiciária de Pernambuco.
+
+Processo: 0803371-64.2015.4.05.8300
+Data e hora da inclusão: 25/01/2016 13:48
+Identificador: 4058300.1651902
+
+| Imprimir |
+Com o envio do recurso ao TRF concluído, será inserida, nos documentos do processo do 1º grau, uma segunda Certidão de Recebimento de Recurso no 2º grau, informando o número que o recurso recebeu no TRF5.
+
+Documentos
+Identificador Assinatura Documento Tipo de Documento Anexos Certidão
+4058300.1651904 25/01/16 13:54 Certidão de Recurso Certidão de Recebimento de Recurso no 2º grau
+
+Obs.: para o processo ser devidamente protocolado, deverão existir, no mínimo: um assunto vinculado, uma parte cadastrada em cada polo e uma petição devidamente associada e assinada digitalmente.
+
+Obs.: caso sejam cadastradas partes que não atraiam a competência para a Justiça Federal, ao tentar protocolar a ação, o sistema exibirá a seguinte mensagem:
+
+PJe MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 - Tribunal Regional Federal da 5ª Região
+
+Aviso
+
+Para confirmar o protocolo da ação, clique em "Sim".
+
+Não existe parte que atraia competência da justiça.
+
+Deseja Continuar? Sim Não. Para anular a ação de protocolo, clique em "Não".
+
+Existindo algum erro, o sistema exibirá um aviso informando o problema que impediu o protocolo do recurso. Para que a petição inicial seja devidamente protocolada, o erro deverá ser sanado.
+
+Importante: caso o recurso não seja protocolado, nenhum procedimento realizado será efetivado. Entretanto, ele poderá ser continuado posteriormente, por meio da opção do menu:
+
+“CONSULTA » PROCESSOS NÃO PROTOCOLADOS”.
+
+3. Processos de Recurso Não Protocolados
+
+O sistema disponibilizará, através de menu específico, todos os recursos do usuário logado que tiverem sido criados, embora ainda não protocolados.
+
+Obs.: para os procuradores que utilizarem esta ferramenta do sistema, serão exibidos todos os recursos criados e não protocolados daquela procuradoria que representa.
+
+Serão permitidas alterações de todas as informações lançadas durante a criação do recurso, a exclusão dessas petições ou o seu protocolamento em lote.
+
+Para acessar esse menu, selecione o caminho “Consulta » Processos Não Protocolados”.
+3.1 Consultando Recursos Não Protocolados
+
+Para consultar os autos de um recurso não protocolado, preencha qualquer um dos filtros solicitados, marque o checkbox do campo “Processo de Recurso” e clique em Consultar.
+
+Nova Consulta
+
+Para limpar os filtros e fazer uma nova consulta, clique em Pesquisar Processos.
+
+[Imagem com campos de pesquisa]
+
+Para visualizar o detalhe de um recurso não protocolado, clique no ícone (Ver Detalhes). As abas que compuserem a petição serão disponibilizadas com a possibilidade de alteração dos dados. Para alterar informações da petição, siga as orientações do peticionamento no módulo “Cadastro de Processo de Recurso”.
+
+3.2 Removendo Recurso Não Protocolado
+
+Para remover um recurso não protocolado, clique no ícone (Remover registro). O sistema exibirá uma mensagem de confirmação:
+
+[Mensagem de confirmação]
+
+“Deseja realmente excluir o processo?” Para confirmar, clique em “OK”. Para anular, clique em “Cancelar”.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+Para continuar com o cadastro do recurso, clique no ícone "Ver detalhes" e prossiga com o preenchimento das abas que compõem o peticionamento, seguindo as informações dispostas no módulo “Cadastro de Processo de Recurso”.
+
+3.3 Protocolando em Lote
+
+Na página “Consulta Processos Não Protocolados”, na coluna “Marcar/Desmarcar Todos”, o sistema permitirá a seleção dos recursos que poderão ser protocolados em lote.
+
+Pesquisa Processos
+Assunto Classe Judicial Polo Ativo Polo Passivo Processo Originário Situação
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800843-91.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800927-92.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0802149-95.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800927-92.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0803586-40.2015.4.05.8300
+Foram encontrados: 6 resultados.
+
+Na coluna indicada, “Marcar/Desmarcar Todos”, marque o check correspondente aos processos que serão protocolados.
+
+Pesquisa Processos
+Assunto Classe Judicial Polo Ativo Polo Passivo Processo Originário Situação
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800854-23.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800843-91.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800927-92.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0802149-95.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0800927-92.2014.4.05.8300
+AGRAVO DE INSTRUMENTO Não Consta 0803586-40.2015.4.05.8300
+Foram encontrados: 6 resultados.
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+§ TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Selecionados os recursos para serem protocolados em lote, o sistema habilitará o botão "ProtocolarEmLote", que deverá ser acionado para distribuir as ações indicadas. Ao acionar este botão, o sistema iniciará a verificação das regras de protocolo:
+
+1 — Existência de, no mínimo, um assunto vinculado;
+
+2 — Cadastro das partes processuais correspondentes, atentando-se para as características da classe judicial utilizada na autuação (exigibilidade de uma parte em cada polo processual e de vinculação de uma entidade que atraia a competência);
+
+3 — Uma petição devidamente vinculada e assinada.
+
+Atendidas as regras, os processos serão distribuídos no tribunal e, em seguida, será disponibilizada a relação dos processos protocolados.
+
+Processos Protocolados x
+Processo Órgão Julgador
+0800067-67.2011.4.05.0000 Aguardando Distribuição
+0800068-52.2011.4.05.0000 Aguardando Distribuição
+
+Caso o sistema identifique a existência de alguma pendência quanto às regras de protocolo nos processos selecionados, será exibida a seguinte mensagem:
+
+"Existem inconsistências, deseja prosseguir? Para continuar clique em “OK” e para anular, clique em “Cancelar”."
+
+[OK] [Cancelar]
+
+Obs.: Os processos que acusarem pendência não serão protocolados.
+
+No entanto, caso o sistema reconheça inconsistências em todos os recursos selecionados para protocolo e distribuição, o sistema acionará a seguinte mensagem:
+
+Pye MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
+S
+=V_TRF 5 — Tribunal Regional Federal da 5ª Região
+
+Existem inconsistências
+
+Para desabilitar a mensagem, clique em “Ok”.
+
+Neste caso, na coluna “Situação”, o sistema exibirá as inconsistências identificadas na autuação do recurso:
+
+Pesquisa Processos
+Assunto | Classe Judicial Polo Ativo Polo Passivo Processo Originário Situação
+Inconsistências:
+- O Processo é Inicial. Logo, é necessário uma Petição Inicial anexada a ele e a Petição deve estar assinada pelo advogado.
+- Deve haver ao menos uma Parte Passiva Vinculada ao Processo.
+- O processo deverá ter pelo menos uma parte no polo ativo além do advogado.
+Inconsistências:
+- O Processo é Inicial. Logo, é necessário uma Petição Inicial anexada a ele e a Petição deve estar assinada pelo advogado.
+- Deve haver ao menos uma Parte Passiva Vinculada ao Processo.
+- O processo deverá ter pelo menos uma parte no polo ativo além do advogado.
+
+Para sanar as inconsistências, clique no ícone ( ) Ver Detalhes. O sistema abrirá o módulo de autuação do recurso (abas de cadastro de recurso) e permitirá que sejam sanadas as inconsistências, mediante o registro das informações necessárias. Finalizados os ajustes na autuação do recurso, seguindo os requisitos mínimos exigidos, este poderá ser protocolado, individualmente ou através do protocolo em lote.
+
+Cadastrar Decisão / Despacho / Sentença / Acórdão / Anexar Documentos / Características Processuais / Cadastrar Processo de Recurso
+
+Cadastro de Processo
+TRF - Regra Exceção
+§ TRF 5ª Região
+
+Caso o advogado/procurador deseje excluir o "rascunho de recurso", deverá clicar em "Remover registro".
+
+O sistema solicitará a confirmação da exclusão por meio da seguinte mensagem:
+
+"Deseja realmente excluir o processo?" Para confirmar a exclusão, clique no botão "Confirmar". Para cancelá-la, clique no botão "Cancelar".
+
+MANUAL DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO
