@@ -7,13 +7,16 @@ import requests
 from langchain_google_genai import ChatGoogleGenerativeAI
 from rag import RAG
 
+from langchain_ollama import OllamaLLM
+
 load_dotenv()
 
 with open('config.yaml', 'r', encoding='utf-8') as f:
     config = yaml.safe_load(f)
 
 # Inicializar o modelo
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+#llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro")
+llm = OllamaLLM(model="deepseek-r1:1.5b")
 
 # Criar instância do RAG
 # Carregar documento
