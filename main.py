@@ -7,7 +7,7 @@ import requests
 from langchain_google_genai import ChatGoogleGenerativeAI
 from rag import RAG
 
-from langchain_ollama import OllamaLLM
+from langchain_ollama.llms import OllamaLLM
 
 load_dotenv()
 

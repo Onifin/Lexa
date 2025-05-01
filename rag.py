@@ -130,14 +130,14 @@ class RAG:
         retrieval_settings = self.config['retrieval_settings']
         self.chunk_size = retrieval_settings.get('chunk_size', 1000)
         self.chunk_overlap = retrieval_settings.get('chunk_overlap', 200)
-        self.retrieval_k = retrieval_settings.get('k', 4)
+        self.retrieval_k = retrieval_settings.get('top_k', 4)
         self.files_dir = self.config['documents'].get('path', './docs')
         
-        # Inicializar banco de dados vetorial (lazy loading)
+        # Inicializar banco de dados vetorial
         self._vectordb = None
         
         # Configurar template do prompt
-        system_prompt = self.config['prompt_template'].get('system', 'Você é um assistente útil.')
+        system_prompt = self.config['prompt_template'].get('system')
         self.prompt = ChatPromptTemplate.from_messages([
             ("system", system_prompt),
             ("human", """
