@@ -1,26 +1,18 @@
 import telebot
+
 from dotenv import load_dotenv
+import requests
 import yaml
 import os
-import requests
 
-from langchain_google_genai import ChatGoogleGenerativeAI
-from rag import RAG
+from lexa import Lexa
 
-from langchain_ollama.llms import OllamaLLM
-
-load_dotenv()
+load_dotenv(override=True)
 
 with open('config.yaml', 'r', encoding='utf-8') as f:
     config = yaml.safe_load(f)
 
-# Inicializar o modelo
-#llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro")
-llm = OllamaLLM(model="deepseek-r1:1.5b")
-
-# Criar instância do RAG
-# Carregar documento
-rag = RAG(llm)
+rag = Lexa(model_name="gemini-2.0-flash", model_provider="google_genai")
 
 # Inicializar o bot
 TELEGRAM_API_KEY = os.getenv("TELEGRAM_API_KEY")
@@ -36,8 +28,13 @@ def send_help_message(message):
 
 @PJe_bot.message_handler(func = lambda message: True)
 def send_message(message):
-    response = rag.generate_response(message.text, message.from_user.id)
-    PJe_bot.reply_to(message, response["answer"])
+    response = rag.ask(message.text) #message.from_user.id
+    if len(response) > 4095:
+        for i in range(0, len(response), 4095):
+            PJe_bot.reply_to(message, text=response[i:i+4095])
+    else:
+        PJe_bot.reply_to(message, text=response)
+    
 
 @PJe_bot.message_handler(content_types=['photo'])
 def handle_photo(message):
